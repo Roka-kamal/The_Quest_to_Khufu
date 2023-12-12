@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 314da0abcd9d2344398aa6f5e45d49bf
+guid: ffc291a3073401c4bb1377a6916cbca8
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -105,600 +105,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: roka_0
-      rect:
-        serializedVersion: 2
-        x: 15
-        y: 1282
-        width: 35
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 10ac59206605ce5418f7dc4aca5af56a
-      internalID: 463468730
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_1
-      rect:
-        serializedVersion: 2
-        x: 79
-        y: 1282
-        width: 35
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9af326dff46333a4cb7ba21521b615e3
-      internalID: -1553987772
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_2
-      rect:
-        serializedVersion: 2
-        x: 143
-        y: 1282
-        width: 35
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 97445319179909c42af586e1d2e89cb3
-      internalID: -110973693
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_3
-      rect:
-        serializedVersion: 2
-        x: 207
-        y: 1282
-        width: 35
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 74599b4a81da423498dc76107e85fcd7
-      internalID: -516647247
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_4
-      rect:
-        serializedVersion: 2
-        x: 266
-        y: 1282
-        width: 44
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: eab87c32355449341b8a47cb6a865013
-      internalID: -1055138922
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_5
-      rect:
-        serializedVersion: 2
-        x: 330
-        y: 1282
-        width: 44
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 24455451d684fb8438124f9dc9d8c75f
-      internalID: -536559180
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_6
-      rect:
-        serializedVersion: 2
-        x: 399
-        y: 1282
-        width: 77
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6c420f208c2edd140b14c68aec73181e
-      internalID: 422871144
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_7
-      rect:
-        serializedVersion: 2
-        x: 21
-        y: 1218
-        width: 27
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3f2af932781ab204887561d41d701e37
-      internalID: 1180383337
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_8
-      rect:
-        serializedVersion: 2
-        x: 85
-        y: 1218
-        width: 27
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f46d170a0880c8040a4b28e8f5dd0a37
-      internalID: 1955329924
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_9
-      rect:
-        serializedVersion: 2
-        x: 149
-        y: 1218
-        width: 27
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b8473b0f345264a488050a07a665ad19
-      internalID: -460692306
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_10
-      rect:
-        serializedVersion: 2
-        x: 212
-        y: 1218
-        width: 28
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: faaae2b94462044408716dcb0752369f
-      internalID: -42069937
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_11
-      rect:
-        serializedVersion: 2
-        x: 274
-        y: 1218
-        width: 32
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c211de1a99adaec4c9031724dfb3b93e
-      internalID: -712586204
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_12
-      rect:
-        serializedVersion: 2
-        x: 338
-        y: 1218
-        width: 32
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 339c875ef869a1643bf5c2f5b620c951
-      internalID: 857248100
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_13
-      rect:
-        serializedVersion: 2
-        x: 404
-        y: 1218
-        width: 28
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a7d975e6b01bbb140a455e70f9a409d8
-      internalID: -856218082
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_14
-      rect:
-        serializedVersion: 2
-        x: 15
-        y: 1154
-        width: 31
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c657812279ee93c438223963f92e246a
-      internalID: -1288997021
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_15
-      rect:
-        serializedVersion: 2
-        x: 79
-        y: 1154
-        width: 31
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 204cfb4361ee6634681013eecf4f686b
-      internalID: -406981970
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_16
-      rect:
-        serializedVersion: 2
-        x: 143
-        y: 1154
-        width: 31
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 30dec6ac289d5a14da0119f38d34c42c
-      internalID: 1454573188
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_17
-      rect:
-        serializedVersion: 2
-        x: 207
-        y: 1154
-        width: 33
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 89e0beff9b0928c4c96577ee9dae6df5
-      internalID: 628574340
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_18
-      rect:
-        serializedVersion: 2
-        x: 266
-        y: 1154
-        width: 44
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 414099358eaa9704cbb7f9380f1b4443
-      internalID: -141096528
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_19
-      rect:
-        serializedVersion: 2
-        x: 330
-        y: 1154
-        width: 44
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5d8a747ba51e62a4ea709502015dd1ea
-      internalID: -618657347
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_20
-      rect:
-        serializedVersion: 2
-        x: 399
-        y: 1154
-        width: 33
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f8b933ae544582a4eaa44720b0967fcc
-      internalID: 817472747
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_21
+      name: Adhamra33_0
       rect:
         serializedVersion: 2
         x: 16
-        y: 1090
-        width: 27
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6f4152ee56d58fe418e7369bb5feba33
-      internalID: 774090653
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_22
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 1090
-        width: 27
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 50855dd69be4f2943b5bb4335c184b46
-      internalID: -257580310
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_23
-      rect:
-        serializedVersion: 2
-        x: 144
-        y: 1090
-        width: 27
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8323ebe2849833749858b8f54c673e25
-      internalID: -1258931391
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_24
-      rect:
-        serializedVersion: 2
-        x: 208
-        y: 1090
-        width: 28
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 27a50297a5f2c574f8e239399573d04e
-      internalID: -1485090678
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_25
-      rect:
-        serializedVersion: 2
-        x: 270
-        y: 1090
+        y: 2049
         width: 32
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c3338d464c9cf7248b4f6bf63feb1fd5
-      internalID: -2110037853
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_26
-      rect:
-        serializedVersion: 2
-        x: 334
-        y: 1090
-        width: 32
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 172aff30110a2644c8530c1349f4299f
-      internalID: 1489871716
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_27
-      rect:
-        serializedVersion: 2
-        x: 400
-        y: 1090
-        width: 28
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a605a73a371d4ee478377f4a2f566862
-      internalID: 1120542688
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_28
-      rect:
-        serializedVersion: 2
-        x: 15
-        y: 1026
-        width: 35
         height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -707,1741 +119,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4d40b6789baf96744ab528f396e8fd8b
-      internalID: -1612117072
+      spriteID: 347bb0fbb70700e408919e59c5f47d8a
+      internalID: -1910137312
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_29
-      rect:
-        serializedVersion: 2
-        x: 79
-        y: 1025
-        width: 35
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f41fd5be70824044fb8c90c8034316e4
-      internalID: 216041535
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_30
-      rect:
-        serializedVersion: 2
-        x: 144
-        y: 1024
-        width: 35
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 58c5f5efc1abb434da6e3e7d3ac98cbf
-      internalID: 1469038375
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_31
-      rect:
-        serializedVersion: 2
-        x: 208
-        y: 1024
-        width: 35
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1bf1aaedd2a210244895ff389b5a6a20
-      internalID: 1915565629
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_32
-      rect:
-        serializedVersion: 2
-        x: 273
-        y: 1024
-        width: 35
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0c92b66947be792479da0a84b98d96f9
-      internalID: -1731080692
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_33
-      rect:
-        serializedVersion: 2
-        x: 337
-        y: 1024
-        width: 35
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 850ed4361754ecf4a98c58d98b1f1b0f
-      internalID: 2075476891
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_34
-      rect:
-        serializedVersion: 2
-        x: 401
-        y: 1024
-        width: 35
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4ecad03cf4be46c43858202f0156faa2
-      internalID: 182979196
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_35
-      rect:
-        serializedVersion: 2
-        x: 464
-        y: 1024
-        width: 35
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6e6a3ca217de68646af7cc7df13b073f
-      internalID: 495304558
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_36
-      rect:
-        serializedVersion: 2
-        x: 21
-        y: 962
-        width: 27
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d5ab5a12c79d4e849b27dcbcef2ded27
-      internalID: -429856858
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_37
-      rect:
-        serializedVersion: 2
-        x: 83
-        y: 962
-        width: 29
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 97d73d00d8e64e34eaa25a2d89229c7d
-      internalID: -1777257994
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_38
-      rect:
-        serializedVersion: 2
-        x: 147
-        y: 962
-        width: 29
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fdc10850e4ca7dc439330721d08c44b4
-      internalID: 1110729199
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_39
-      rect:
-        serializedVersion: 2
-        x: 213
-        y: 962
-        width: 27
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f8e064fe568fd5643ad0d41ee1996afb
-      internalID: -1863249929
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_40
-      rect:
-        serializedVersion: 2
-        x: 272
-        y: 962
-        width: 30
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fc4fba9b3fcee0648946c8074d02e4fc
-      internalID: 877579612
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_41
-      rect:
-        serializedVersion: 2
-        x: 333
-        y: 962
-        width: 33
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a35e4b3b993f6cb4c82922851eb2b507
-      internalID: 67676774
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_42
-      rect:
-        serializedVersion: 2
-        x: 400
-        y: 962
-        width: 30
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ce6fab172860544419ec6991f37e00ba
-      internalID: 647429684
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_43
-      rect:
-        serializedVersion: 2
-        x: 469
-        y: 962
-        width: 27
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 31b886d96f70977488feda124cbe92d3
-      internalID: 1842474373
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_44
-      rect:
-        serializedVersion: 2
-        x: 15
-        y: 898
-        width: 31
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8550400c89db26b4bacdd1612d93c0f1
-      internalID: -1370818531
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_45
-      rect:
-        serializedVersion: 2
-        x: 79
-        y: 898
-        width: 31
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c1e12787fa5f7ec48b62d4e50f5898d2
-      internalID: -1867020253
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_46
-      rect:
-        serializedVersion: 2
-        x: 143
-        y: 899
-        width: 31
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 17c296d43bec9c94caacd2499de4f0b5
-      internalID: -1984579829
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_47
-      rect:
-        serializedVersion: 2
-        x: 207
-        y: 899
-        width: 31
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 889eaed69d0e5d947aec277bfe427f46
-      internalID: 515553149
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_48
-      rect:
-        serializedVersion: 2
-        x: 271
-        y: 899
-        width: 31
-        height: 47
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cce4201a3d5ab114e820fc66dc74b692
-      internalID: -971522396
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_49
-      rect:
-        serializedVersion: 2
-        x: 335
-        y: 899
-        width: 31
-        height: 47
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2c55462a5c703e748b3a1ca068567a18
-      internalID: -366234711
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_50
-      rect:
-        serializedVersion: 2
-        x: 399
-        y: 899
-        width: 31
-        height: 47
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a95766ffda38ffd42a832b594c144d11
-      internalID: 986768473
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_51
-      rect:
-        serializedVersion: 2
-        x: 463
-        y: 899
-        width: 31
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c86191568c2621941af11e05c3e3082d
-      internalID: 63247517
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_52
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 834
-        width: 27
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c852db722dc3f2a46a317a751e1886f2
-      internalID: 1222363505
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_53
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 834
-        width: 29
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1f3a72ec8a9ea744a9ff730493a058b0
-      internalID: 1215253814
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_54
-      rect:
-        serializedVersion: 2
-        x: 144
-        y: 834
-        width: 29
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d2424fe247cb8f74a98f08f0ebc2135c
-      internalID: -710238823
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_55
-      rect:
-        serializedVersion: 2
-        x: 208
-        y: 834
-        width: 27
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b9ae0e6f8c353a34a8c7077072a43448
-      internalID: 1912324746
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_56
-      rect:
-        serializedVersion: 2
-        x: 274
-        y: 834
-        width: 30
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d8186a925ee9f524a9da26aabaac658e
-      internalID: -676987611
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_57
-      rect:
-        serializedVersion: 2
-        x: 338
-        y: 834
-        width: 33
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3d74c2954055ddd48b9140b9b8486918
-      internalID: -1239305496
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_58
-      rect:
-        serializedVersion: 2
-        x: 402
-        y: 834
-        width: 30
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 698aaad23aa416a4c9b96816c93c64d8
-      internalID: -1005185699
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_59
-      rect:
-        serializedVersion: 2
-        x: 464
-        y: 834
-        width: 27
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 244244fb8159faf4f906413b10fdb13b
-      internalID: 207264128
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_60
-      rect:
-        serializedVersion: 2
-        x: 15
-        y: 771
-        width: 35
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f16686a500209dc4fa2ef0d7b9ee2efc
-      internalID: 1322980195
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_61
-      rect:
-        serializedVersion: 2
-        x: 79
-        y: 770
-        width: 35
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9f4aef1dfff7036469c5436eb5cb595e
-      internalID: 139327471
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_62
-      rect:
-        serializedVersion: 2
-        x: 143
-        y: 769
-        width: 35
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9ae514c7bf4f767499eae6a86601f92b
-      internalID: 1420953765
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_63
-      rect:
-        serializedVersion: 2
-        x: 207
-        y: 768
-        width: 35
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 75c0dbe448db79741b0723ed1dd9e266
-      internalID: 1715599547
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_64
-      rect:
-        serializedVersion: 2
-        x: 271
-        y: 769
-        width: 35
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fa5ff1ae69383cf49b216db06e3819fe
-      internalID: -1653351346
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_65
-      rect:
-        serializedVersion: 2
-        x: 335
-        y: 770
-        width: 35
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8bb255a970cf4ed4f8fc2959c0942f55
-      internalID: 761329696
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_66
-      rect:
-        serializedVersion: 2
-        x: 399
-        y: 769
-        width: 35
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7b7ff0825262a3743aae43b4e22f232f
-      internalID: -387349089
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_67
-      rect:
-        serializedVersion: 2
-        x: 463
-        y: 768
-        width: 35
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f9d0e0d7c2133444bb7be2826803de3f
-      internalID: -1689012370
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_68
-      rect:
-        serializedVersion: 2
-        x: 527
-        y: 769
-        width: 35
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f1dc21e32f3c8774eb148e391bd93316
-      internalID: -252969466
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_69
-      rect:
-        serializedVersion: 2
-        x: 21
-        y: 706
-        width: 27
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f19f8aa8e5979e7488085f6454bec830
-      internalID: 75143336
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_70
-      rect:
-        serializedVersion: 2
-        x: 85
-        y: 706
-        width: 27
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8e18e3e0f6a111b4692bb53bf8b73024
-      internalID: -1417629562
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_71
-      rect:
-        serializedVersion: 2
-        x: 149
-        y: 707
-        width: 27
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1b92b163956bddd4ebb91e8521fcf901
-      internalID: -516478864
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_72
-      rect:
-        serializedVersion: 2
-        x: 213
-        y: 707
-        width: 27
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6cc682b766c1fb741bf0f4403e034622
-      internalID: 2047933894
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_73
-      rect:
-        serializedVersion: 2
-        x: 277
-        y: 706
-        width: 27
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cb730708efc7a6343b7a733fd84471a6
-      internalID: -1663758296
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_74
-      rect:
-        serializedVersion: 2
-        x: 340
-        y: 706
-        width: 28
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 229042deff9eea74d8398cf77e68c242
-      internalID: -1380403205
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_75
-      rect:
-        serializedVersion: 2
-        x: 405
-        y: 706
-        width: 27
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d1e438440fcf4dd4b9221a94a1674f7e
-      internalID: 1440518540
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_76
-      rect:
-        serializedVersion: 2
-        x: 469
-        y: 706
-        width: 27
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 52616214c1aaeef42aa5baba84070415
-      internalID: 135761655
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_77
-      rect:
-        serializedVersion: 2
-        x: 533
-        y: 706
-        width: 27
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 103d21c68deab1b46879338985a940d0
-      internalID: 922115763
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_78
-      rect:
-        serializedVersion: 2
-        x: 15
-        y: 642
-        width: 31
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f88bc1c3adb490b4d847f86e316c3e9c
-      internalID: 1539424699
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_79
-      rect:
-        serializedVersion: 2
-        x: 79
-        y: 642
-        width: 31
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a2332012b67017c4cac7d74ab00c860f
-      internalID: -1674279602
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_80
-      rect:
-        serializedVersion: 2
-        x: 143
-        y: 641
-        width: 31
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ca6c513f60f268a44979beff874fee36
-      internalID: -1786198826
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_81
-      rect:
-        serializedVersion: 2
-        x: 207
-        y: 641
-        width: 31
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bd3b4638a35111d4ba0d0de2327b29e5
-      internalID: 856169441
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_82
-      rect:
-        serializedVersion: 2
-        x: 271
-        y: 641
-        width: 31
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b4dccacdd7054dd4f996e68cae395770
-      internalID: -2079219589
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_83
-      rect:
-        serializedVersion: 2
-        x: 335
-        y: 642
-        width: 31
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 955ac0685adbb444e859ed16cc063230
-      internalID: -1709272038
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_84
-      rect:
-        serializedVersion: 2
-        x: 399
-        y: 641
-        width: 31
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d11e7f27f681b5a4ea1394ea805353ab
-      internalID: -749958280
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_85
-      rect:
-        serializedVersion: 2
-        x: 463
-        y: 641
-        width: 31
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f314d34ff57e5f24cbadba27dbce8e8b
-      internalID: 2037323773
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_86
-      rect:
-        serializedVersion: 2
-        x: 527
-        y: 641
-        width: 31
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f9578f4e7665cbb45a76eb3eec0b06a0
-      internalID: -1882305661
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_87
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 578
-        width: 27
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: dc60b002d780e7b4aaa8882a5874bf1a
-      internalID: -370650413
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_88
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 578
-        width: 27
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c1cb50d71bdb5e1468c3e57d43ecca20
-      internalID: -1352385657
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_89
-      rect:
-        serializedVersion: 2
-        x: 144
-        y: 579
-        width: 27
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3981449c46098c04c8886ccd103ba51a
-      internalID: -1574779970
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_90
-      rect:
-        serializedVersion: 2
-        x: 208
-        y: 579
-        width: 27
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 31e75b12c30d4f64d9d989596a3d01fe
-      internalID: -143634420
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_91
-      rect:
-        serializedVersion: 2
-        x: 272
-        y: 578
-        width: 27
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 61a5a15b6eac94c4a924e8bb67406fe1
-      internalID: 251286380
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_92
-      rect:
-        serializedVersion: 2
-        x: 336
-        y: 578
-        width: 28
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 36ac269a2d40239439a9fd6b34147de6
-      internalID: -1983675623
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_93
-      rect:
-        serializedVersion: 2
-        x: 400
-        y: 578
-        width: 27
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c29e6c8469ad8d842a619be5c512a02d
-      internalID: 1228978524
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_94
-      rect:
-        serializedVersion: 2
-        x: 464
-        y: 578
-        width: 27
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a43c65806d0480847a00d923b5fd2836
-      internalID: 824889244
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_95
-      rect:
-        serializedVersion: 2
-        x: 528
-        y: 578
-        width: 27
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 432ab5e78881419469679a9569ec3d1b
-      internalID: -90230476
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_96
-      rect:
-        serializedVersion: 2
-        x: 15
-        y: 514
-        width: 35
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f43f7aa430612fb4b81ea278db6011f3
-      internalID: 923735986
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_97
-      rect:
-        serializedVersion: 2
-        x: 79
-        y: 513
-        width: 35
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: adec703491e588c41bfa88b6941da81c
-      internalID: 325515247
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_98
-      rect:
-        serializedVersion: 2
-        x: 142
-        y: 513
-        width: 35
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5e7d951055d29ad4b8d6faa717363c93
-      internalID: 1537504338
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_99
-      rect:
-        serializedVersion: 2
-        x: 208
-        y: 513
-        width: 35
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cd45bbf099d129d4e8ec4422653499a2
-      internalID: -586073883
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_100
-      rect:
-        serializedVersion: 2
-        x: 273
-        y: 513
-        width: 37
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 184ec100c91f9c144b2e97ccfa66b205
-      internalID: -1976363142
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_101
-      rect:
-        serializedVersion: 2
-        x: 337
-        y: 513
-        width: 40
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: dc10f3e8a40158444bfd0dca9d31b3d7
-      internalID: 159440014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_102
-      rect:
-        serializedVersion: 2
-        x: 21
-        y: 450
-        width: 27
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d587be87900a4d14a85ba106b5e85654
-      internalID: 1973080297
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_103
+      name: Adhamra33_1
       rect:
         serializedVersion: 2
         x: 81
-        y: 450
-        width: 29
-        height: 47
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8cd8eacd818f70b4399a523b174c3039
-      internalID: -1258809226
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_104
-      rect:
-        serializedVersion: 2
-        x: 147
-        y: 450
-        width: 27
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 12ab18624b451654485d7a50ff62b38a
-      internalID: -661899086
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_105
-      rect:
-        serializedVersion: 2
-        x: 204
-        y: 450
-        width: 33
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1833fa3cbc61cc045b92eb3f6878acf7
-      internalID: 268888441
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_106
-      rect:
-        serializedVersion: 2
-        x: 264
-        y: 450
-        width: 36
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 65826c4572de5754bb87e924b85ee3bd
-      internalID: 1732956173
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_107
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 450
-        width: 32
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d961a80db304ffe41bc33af3c96e648c
-      internalID: 943520243
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_108
-      rect:
-        serializedVersion: 2
-        x: 15
-        y: 386
-        width: 31
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4ec73b287af68264395980f3c8501051
-      internalID: -680239816
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_109
-      rect:
-        serializedVersion: 2
-        x: 79
-        y: 386
-        width: 31
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 73f582fbbf761534e84d59560328c6e0
-      internalID: -956375978
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_110
-      rect:
-        serializedVersion: 2
-        x: 142
-        y: 386
-        width: 31
-        height: 47
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c120f9179fc378348abec79871a3adae
-      internalID: 496755698
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_111
-      rect:
-        serializedVersion: 2
-        x: 209
-        y: 386
-        width: 31
+        y: 2049
+        width: 30
         height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -2450,187 +140,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9940773ff92b2e6449590fdbc3d3dcc1
-      internalID: -12859662
+      spriteID: e4de3ded747579d40bc5d41cc9ec89d7
+      internalID: -1344489611
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_112
+      name: Adhamra33_2
       rect:
         serializedVersion: 2
-        x: 274
-        y: 386
-        width: 37
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 780938170b9d3174e8c84b02eb9676b5
-      internalID: 1463364947
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_113
-      rect:
-        serializedVersion: 2
-        x: 338
-        y: 386
-        width: 40
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 855ec6471d2d3a74dbc3a0c444a3385e
-      internalID: -896330804
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_114
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 322
-        width: 27
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3ef86d34fac35ad4a83dd7fe1a2091ca
-      internalID: -1742015045
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_115
-      rect:
-        serializedVersion: 2
-        x: 82
-        y: 322
-        width: 29
-        height: 47
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a8fe6163068b7684eb3cb7845849854d
-      internalID: 817787121
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_116
-      rect:
-        serializedVersion: 2
-        x: 146
-        y: 322
-        width: 27
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 54e6d33dcf0728e43ab233f3367a70c1
-      internalID: -65257775
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_117
-      rect:
-        serializedVersion: 2
-        x: 211
-        y: 322
-        width: 33
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5c71222ad0cbf4e498b2283125813e05
-      internalID: -1880078013
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_118
-      rect:
-        serializedVersion: 2
-        x: 276
-        y: 322
-        width: 36
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4f5deeeb6d03718438b390cf9bc6e3d7
-      internalID: 41251020
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_119
-      rect:
-        serializedVersion: 2
-        x: 340
-        y: 322
-        width: 32
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f108001ac2b2eae46ad7d2b2e4993217
-      internalID: -896163617
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_120
-      rect:
-        serializedVersion: 2
-        x: 14
-        y: 258
-        width: 35
+        x: 145
+        y: 2049
+        width: 30
         height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -2639,586 +161,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eba543f152cd7ec468f4bcb309471bb6
-      internalID: 746077501
+      spriteID: 21a565845e6606442849e9dbd4c9bbed
+      internalID: 689268992
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_121
-      rect:
-        serializedVersion: 2
-        x: 78
-        y: 257
-        width: 35
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d14b306c491392e42bd29e7acb5957d4
-      internalID: -1166133949
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_122
-      rect:
-        serializedVersion: 2
-        x: 143
-        y: 256
-        width: 35
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 087870d3699508d4cab44319b315dd8f
-      internalID: 1722155057
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_123
-      rect:
-        serializedVersion: 2
-        x: 206
-        y: 256
-        width: 35
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 507410a3064dfb24bafb63b93cce8215
-      internalID: 738385293
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_124
-      rect:
-        serializedVersion: 2
-        x: 270
-        y: 256
-        width: 35
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9e92cfbcfb19e1340a4bc969aaf38919
-      internalID: 33551600
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_125
-      rect:
-        serializedVersion: 2
-        x: 334
-        y: 256
-        width: 35
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ce7caee3a0bd4de42a3344344ce14a84
-      internalID: 915844840
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_126
-      rect:
-        serializedVersion: 2
-        x: 398
-        y: 256
-        width: 35
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 778f8a35dd356f94485164b75479ffd6
-      internalID: -1988091817
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_127
-      rect:
-        serializedVersion: 2
-        x: 462
-        y: 256
-        width: 35
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c8423080bbc10bd4582103c8a9113c10
-      internalID: 1714740732
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_128
-      rect:
-        serializedVersion: 2
-        x: 526
-        y: 256
-        width: 35
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2e7a5929e6bcdac40b48516bb446269d
-      internalID: -342219665
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_129
-      rect:
-        serializedVersion: 2
-        x: 590
-        y: 256
-        width: 35
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 25d19f84b08b11b42a50ef7dbab68e53
-      internalID: -897830808
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_130
-      rect:
-        serializedVersion: 2
-        x: 654
-        y: 256
-        width: 35
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 580fcdac09d13e2408b578ab75ac5206
-      internalID: -298251986
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_131
-      rect:
-        serializedVersion: 2
-        x: 718
-        y: 256
-        width: 35
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 40ea2c6313b3567458b46af288f3d8e4
-      internalID: -940482052
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_132
-      rect:
-        serializedVersion: 2
-        x: 782
-        y: 256
-        width: 35
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 530668ce5a300bb4f9211782aa28a696
-      internalID: 332716917
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_133
-      rect:
-        serializedVersion: 2
-        x: 22
-        y: 194
-        width: 27
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5a0cb32e1a4f5dd4594484c89160f2f8
-      internalID: 1145687624
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_134
-      rect:
-        serializedVersion: 2
-        x: 84
-        y: 194
-        width: 29
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a22260f9057b9764ca79dc6548aca8ae
-      internalID: -305612886
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_135
-      rect:
-        serializedVersion: 2
-        x: 143
-        y: 194
-        width: 34
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 29e65fa5727f44342ae1026c4b645e52
-      internalID: -967686021
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_136
+      name: Adhamra33_3
       rect:
         serializedVersion: 2
         x: 205
-        y: 194
-        width: 36
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 90abea116f7cdfc4aa6c82db8faf4f3e
-      internalID: -1797907247
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_137
-      rect:
-        serializedVersion: 2
-        x: 269
-        y: 194
-        width: 36
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 79d4da46431de6348a73d266fea05c3b
-      internalID: 1943236624
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_138
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 194
-        width: 37
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: acefa8ecb9ed4f745a1bdcba2dd4cc4a
-      internalID: -1736695694
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_139
-      rect:
-        serializedVersion: 2
-        x: 396
-        y: 194
-        width: 37
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7296b6b7b7ab71e4d9876903182c6afc
-      internalID: -2078991112
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_140
-      rect:
-        serializedVersion: 2
-        x: 461
-        y: 194
-        width: 36
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: db9458b19fb4ac94b9f462843ff1d91b
-      internalID: -256667700
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_141
-      rect:
-        serializedVersion: 2
-        x: 525
-        y: 194
+        y: 2049
         width: 38
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 13d6b3372b5f07b4dbfacc81cd1811de
-      internalID: 1634257402
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_142
-      rect:
-        serializedVersion: 2
-        x: 589
-        y: 194
-        width: 36
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0e6afeee7fdb9e14b845e0678479a942
-      internalID: -1720754840
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_143
-      rect:
-        serializedVersion: 2
-        x: 653
-        y: 194
-        width: 36
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c4916aea39aba1d45be25a7b4e3bcf35
-      internalID: 1937351770
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_144
-      rect:
-        serializedVersion: 2
-        x: 717
-        y: 194
-        width: 36
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5d6e0882dbc475b45a4a8339751a716e
-      internalID: 1555241554
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_145
-      rect:
-        serializedVersion: 2
-        x: 781
-        y: 194
-        width: 36
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c4ee875da04351b4a97457e96464f70c
-      internalID: 625444914
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_146
-      rect:
-        serializedVersion: 2
-        x: 14
-        y: 130
-        width: 31
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bfee63b32fd97184b9fa17eb30e2c983
-      internalID: 536914633
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_147
-      rect:
-        serializedVersion: 2
-        x: 78
-        y: 129
-        width: 31
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e466e4547a063d141bfc18ddf27a987e
-      internalID: -1075503341
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_148
-      rect:
-        serializedVersion: 2
-        x: 142
-        y: 131
-        width: 31
         height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -3227,19 +182,82 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b3675b10437ecc24b9ed25304383a727
-      internalID: -490994448
+      spriteID: 5f60a95ce8dac1a4196203356367d27c
+      internalID: 1481903052
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_149
+      name: Adhamra33_4
       rect:
         serializedVersion: 2
-        x: 206
-        y: 130
-        width: 31
+        x: 261
+        y: 2049
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a414c66c22e69b447a92fcd67e4a7a8d
+      internalID: -1190267524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_5
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 2049
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4686a1b27589624e82a7887f329bca9
+      internalID: 1804521620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_6
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 2049
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6bd5ce7abefcb646b2257c91fc97588
+      internalID: -914182487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_7
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1985
+        width: 28
         height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -3248,19 +266,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 16cd593aaef68c049aac0425e5be4bf6
-      internalID: 1790962708
+      spriteID: 7032561d037c64f4da5f4a43200edb5b
+      internalID: 1068400600
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_150
+      name: Adhamra33_8
       rect:
         serializedVersion: 2
-        x: 270
-        y: 130
-        width: 31
+        x: 84
+        y: 1985
+        width: 30
         height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -3269,207 +287,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 758c63b6861d9194dbc48409f54848c5
-      internalID: 1480768653
+      spriteID: 1b84b9dd981756848af59998375f50a1
+      internalID: -1606701265
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_151
+      name: Adhamra33_9
       rect:
         serializedVersion: 2
-        x: 334
-        y: 130
-        width: 31
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bc9098909bc7d434e98a6d79d009e5ec
-      internalID: 1808565741
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_152
-      rect:
-        serializedVersion: 2
-        x: 398
-        y: 130
-        width: 31
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 787842f6fd5d8bb439e193f1b0ee99a2
-      internalID: 1257648496
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_153
-      rect:
-        serializedVersion: 2
-        x: 462
-        y: 130
-        width: 31
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ab6d69d7a8467a64c98a3383fcf32c17
-      internalID: -668497925
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_154
-      rect:
-        serializedVersion: 2
-        x: 526
-        y: 130
-        width: 31
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1a8934fbf7f29e44999314a004f905d5
-      internalID: -594114985
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_155
-      rect:
-        serializedVersion: 2
-        x: 590
-        y: 130
-        width: 31
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 55b0702f411e1ad47b46fb78f82f32c6
-      internalID: 471252273
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_156
-      rect:
-        serializedVersion: 2
-        x: 654
-        y: 130
-        width: 31
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d3631f946ed37ea4a8a67aafe2d01995
-      internalID: 715003787
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_157
-      rect:
-        serializedVersion: 2
-        x: 718
-        y: 130
-        width: 31
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5aa421ffdd0c9444887e22136c5865a4
-      internalID: 1171878002
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_158
-      rect:
-        serializedVersion: 2
-        x: 782
-        y: 130
-        width: 31
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 80f79970f1d00f34697371ed3e3ebc61
-      internalID: -476070374
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_159
-      rect:
-        serializedVersion: 2
-        x: 15
-        y: 66
-        width: 27
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e4ba66339beb0034483ea2913d3d3db6
-      internalID: -1222712056
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_160
-      rect:
-        serializedVersion: 2
-        x: 79
-        y: 66
+        x: 149
+        y: 1985
         width: 29
         height: 49
       alignment: 0
@@ -3479,19 +308,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a96950c45b6bfbb4a98918b9df7b3d76
-      internalID: -1146904624
+      spriteID: 30985f6d2f4f0e146afaabccf908585b
+      internalID: -1810079980
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_161
+      name: Adhamra33_10
       rect:
         serializedVersion: 2
-        x: 143
-        y: 66
-        width: 34
+        x: 211
+        y: 1985
+        width: 31
         height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -3500,19 +329,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d5183dc29477e204094d691b3c8aeb16
-      internalID: 1236138083
+      spriteID: 1ef52eb41f96f9a439763accd7971de0
+      internalID: -2030360562
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_162
+      name: Adhamra33_11
       rect:
         serializedVersion: 2
-        x: 207
-        y: 66
-        width: 36
+        x: 273
+        y: 1985
+        width: 35
         height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -3521,19 +350,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8728f281efe2e0142a82fd325ffaf4db
-      internalID: 804722537
+      spriteID: 78307c742332870458eebec11e92f418
+      internalID: 1636857585
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_163
+      name: Adhamra33_12
       rect:
         serializedVersion: 2
-        x: 271
-        y: 66
-        width: 36
+        x: 337
+        y: 1985
+        width: 35
         height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -3542,19 +371,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 56c4d29419544d645a266914b96d3224
-      internalID: 1137410506
+      spriteID: 0b8d8d4ef64c7744e96c335cf1ae064d
+      internalID: -1641254346
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_164
+      name: Adhamra33_13
       rect:
         serializedVersion: 2
-        x: 335
-        y: 66
-        width: 37
+        x: 403
+        y: 1985
+        width: 31
         height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -3563,20 +392,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7321bcd94ddd2e04ea4c37b283753443
-      internalID: 315741601
+      spriteID: 58955d47e4658ac4ba7858ad2c9d5ff6
+      internalID: -342957302
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_165
+      name: Adhamra33_14
       rect:
         serializedVersion: 2
-        x: 399
-        y: 66
-        width: 37
-        height: 49
+        x: 498
+        y: 2007
+        width: 52
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3584,20 +413,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7d1b532d4cf7b394088d67fe54e38077
-      internalID: 156280386
+      spriteID: e82af5e673622444698b740ee4e74f1d
+      internalID: -1037066095
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_166
+      name: Adhamra33_15
       rect:
         serializedVersion: 2
-        x: 463
-        y: 66
-        width: 36
-        height: 49
+        x: 16
+        y: 1920
+        width: 32
+        height: 51
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3605,20 +434,62 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e443fa93b8eb1d445a60f2e136cf4902
-      internalID: -1363876561
+      spriteID: 5127f6099e129914c81035bdff99a6d6
+      internalID: -1799138181
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_167
+      name: Adhamra33_16
       rect:
         serializedVersion: 2
-        x: 525
-        y: 66
+        x: 80
+        y: 1920
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e012434f34af5c4caa174999295f625
+      internalID: -993049761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_17
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1920
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c11e44c95148a24d9e659dd23fc0819
+      internalID: -1890798899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_18
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1920
         width: 38
-        height: 49
+        height: 51
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3626,20 +497,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bffba83ee00794946b34c3e6068b29d1
-      internalID: -1451992017
+      spriteID: 937917cf3bd21bc48a77279b392fe6a4
+      internalID: -264771987
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_168
+      name: Adhamra33_19
       rect:
         serializedVersion: 2
-        x: 591
-        y: 66
-        width: 36
-        height: 49
+        x: 261
+        y: 1920
+        width: 53
+        height: 51
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3647,20 +518,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5a82d1971e0b16b48a01601388066fb0
-      internalID: 582271744
+      spriteID: 260752a25d3c88d498dad0b68505f87d
+      internalID: 1647251770
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_169
+      name: Adhamra33_20
       rect:
         serializedVersion: 2
-        x: 655
-        y: 66
-        width: 36
-        height: 49
+        x: 326
+        y: 1920
+        width: 51
+        height: 51
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3668,20 +539,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ff86f828de5cf0941b7afcec4a8f7193
-      internalID: -1345468561
+      spriteID: 71979aa4ed3efa5468b2292c75227738
+      internalID: 967254108
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_170
+      name: Adhamra33_21
       rect:
         serializedVersion: 2
-        x: 719
-        y: 66
+        x: 398
+        y: 1920
         width: 36
-        height: 49
+        height: 51
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3689,39 +560,144 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fdf1bce1d1968e543835b02212e0c452
-      internalID: -1831322416
+      spriteID: d089e6e8682cb9f4191d41bf68933fe8
+      internalID: 262095564
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_171
-      rect:
-        serializedVersion: 2
-        x: 783
-        y: 66
-        width: 36
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8c0915bff42bee6419442fcf41c1cabc
-      internalID: 953221174
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_172
+      name: Adhamra33_22
       rect:
         serializedVersion: 2
         x: 14
-        y: 2
+        y: 1856
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c14600d46f6a7f4888d2e30e7d299a2
+      internalID: 2079235624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_23
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1856
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad2c3b8975cf7040a231ba73ce6511c
+      internalID: -1437893125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_24
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1856
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08dfeb06cbe5fbc44bd4680a234ea547
+      internalID: 1391279210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_25
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1856
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a3cd0d52be7cc4880e907432c6ad52
+      internalID: -1003440653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_26
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1856
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63033205f3a9f2345a96cf65635b6ad7
+      internalID: -1627525698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_27
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1856
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77237e8993cd6d349b1f334f37ef033e
+      internalID: -1062241564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_28
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1856
         width: 32
         height: 50
       alignment: 0
@@ -3731,18 +707,207 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2ad5fccf42c1eff4199ae6d97d7d2b2a
-      internalID: 1709072764
+      spriteID: 7d39ae31c05afa747aa2cfc899589cf0
+      internalID: -1043391243
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_173
+      name: Adhamra33_29
       rect:
         serializedVersion: 2
-        x: 80
-        y: 2
+        x: 16
+        y: 1793
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93780206870d88d44a88852d7e2efc39
+      internalID: -742003234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_30
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1791
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1036f76ca431e4eac99a9d35786097
+      internalID: 336697321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_31
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1791
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dae36e6376e73247a27355776d77a76
+      internalID: -1862993039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_32
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1791
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c8dd2aa2596a048a77dc064a2a3b7e
+      internalID: 2092660149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_33
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1791
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44098efa41581a94aaddabe0f697669e
+      internalID: -1921437011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_34
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1791
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385352c074489784ab42102f522e7d3d
+      internalID: 452694455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_35
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1791
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22dedbaa50f0099419a10d08c4d8706e
+      internalID: 1824493174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_36
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1791
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eac6d4eda6b90449b4cb198d65b2796
+      internalID: 917780108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_37
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1729
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e02d4940615a7c44a2c1e69f6d790b7
+      internalID: -1486696687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_38
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1729
         width: 32
         height: 49
       alignment: 0
@@ -3752,20 +917,524 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3208af77d7bf12d4a8a977475214b968
-      internalID: -419204291
+      spriteID: 69ce300641741bd408ab32b84e142264
+      internalID: -735771266
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_174
+      name: Adhamra33_39
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1729
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8cb2c16f4f70444ba26967dce6ac0c
+      internalID: 820679270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_40
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1729
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a24c4731915d64c93ae10707c75400
+      internalID: 1814584705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_41
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1729
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e9d469260df334eafdbf5ba1566847
+      internalID: 1626046926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_42
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1729
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f2b0d4175e616459dddc61c06e5c4b
+      internalID: -281654724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_43
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1729
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e5b9d0177684145aae61f6165010e5
+      internalID: -864509476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_44
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1729
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc370bbc04712a846ba832e55b56c812
+      internalID: 355268648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_45
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1664
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f42b6aa8b69964448d9dabb27b5dbb4
+      internalID: -153046258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_46
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1666
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c014d5841e5b14a94d144051b500ad
+      internalID: -567359863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_47
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1666
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e562fb3491ef44f831ec82a45d4e28
+      internalID: -102391391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_48
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1666
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6477c1081fb5a4cadfb9e557767202
+      internalID: 1626250670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_49
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1666
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c6f7a9a2455944181d338f54496e0b
+      internalID: -1273241558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_50
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1666
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd2036a19ed28e4e9aafbc7666a78c8
+      internalID: -548703005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_51
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1666
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46405386ea01414298377bc6d328a10
+      internalID: 380898445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_52
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1666
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52891b411f6f8b64fa2aebbf47086eaf
+      internalID: -144620793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_53
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1600
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1ba60147bd01c498d47d7019cf7e3a
+      internalID: -1715054844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_54
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1600
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce11925fc00c2624dbd61149b389c40e
+      internalID: -1989369454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_55
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1600
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b5d3af048efac48ace9b8d0241af3a
+      internalID: 185450942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_56
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1600
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7eae64086c5e8c4a99f644616694ba5
+      internalID: 861472732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_57
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1600
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc1b96951e64494abe01344a7a5b55c
+      internalID: -1736791648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_58
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1600
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64e05480e3d975408c4d077af2c0930
+      internalID: -935437690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_59
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1600
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3511806959de08b4abbf1b6ed9e9518e
+      internalID: -2131636835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_60
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1600
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4edd0217f92d01046b0685a9ef3a83e5
+      internalID: 1086423067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_61
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1538
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd720b3d124f04d458781394ed578b5a
+      internalID: 1397905506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_62
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1538
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b73eacd402046f4993983f48e868176
+      internalID: -1889080143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_63
       rect:
         serializedVersion: 2
         x: 144
-        y: 2
-        width: 31
-        height: 42
+        y: 1537
+        width: 32
+        height: 50
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3773,20 +1442,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2b0e28cfcc1dc5c4a9e35044df341e12
-      internalID: -430881671
+      spriteID: b253b74cd46706244999dc33f4316d10
+      internalID: 716581977
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_175
+      name: Adhamra33_64
       rect:
         serializedVersion: 2
         x: 208
-        y: 2
-        width: 32
-        height: 38
+        y: 1536
+        width: 31
+        height: 50
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3794,20 +1463,1553 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e9c521abe9be5cc4fa0500c6fc5bd581
-      internalID: 1906755940
+      spriteID: 5d2cd0aa051239f45bc2ce8937daf5c6
+      internalID: 339984811
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_176
+      name: Adhamra33_65
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1537
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2dcbbb78574904da709477c3489fc1
+      internalID: 2104882169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_66
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1538
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eeef5575e1efe243805e7492435785d
+      internalID: -1172475859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_67
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1537
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19adc375ae79a944b86aa84f5978acda
+      internalID: -603603371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_68
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1536
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193e635365baab6438f93be840e5ca6f
+      internalID: -582676328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_69
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1537
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203604036afab3f47bc2eb493d5ee34a
+      internalID: -222820692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_70
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1473
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39bc75bda05bb2642a4707538047b71d
+      internalID: 1583170615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_71
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1473
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2ddfdc93bc5234ea4f578c80fa634c
+      internalID: -1934285221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_72
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1473
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817e9527a1200da44adc96d6bb3ad905
+      internalID: 1406899773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_73
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1473
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e645103f5315964c9ba7b412ba13496
+      internalID: 1713850412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_74
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1473
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4dcdb6cda14fe64080efa16bdabee5d
+      internalID: -547461694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_75
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1473
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d3776bef941b3438faed4793c414bc
+      internalID: -1571788799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_76
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1473
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83889390fa25c094c845c58b26ee7b77
+      internalID: -355269447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_77
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1473
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb26bc0bf101c5e4cba7afcf6e296984
+      internalID: -698304566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_78
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1473
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d67dca6cc0d864bb5bd874132276c7
+      internalID: -1876944822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_79
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1408
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa7de1ff7c4739439c80aa8244b1268
+      internalID: 1833252657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_80
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1408
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87cee68d720df864799af177c35f3165
+      internalID: -120139544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_81
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1408
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a94efe182e03f34aad1d52e6e51dbc9
+      internalID: 1743056915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_82
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1408
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164cc34d50278df43beb952a5f186b12
+      internalID: -854040118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_83
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1408
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe10a4d6c5475847a08043d7c753711
+      internalID: 1613103395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_84
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1408
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3e66abb37e668499416ff2a2e6175b
+      internalID: 1766239801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_85
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1408
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1601dcae982174e80cbbd4a5be1266
+      internalID: 968554839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_86
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1407
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92459e6757f5e774e9f9a38e4683c6c8
+      internalID: -1934624382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_87
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1407
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42efca4f6afc8d54e8830957f71b7fd3
+      internalID: 1110692363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_88
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1344
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8abc216c2e0f49e4ca670297523a1baa
+      internalID: -1940251821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_89
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1344
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02acb0bf13a51c64d88162e1f907f4eb
+      internalID: -269486705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_90
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1345
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91e38b8cfa313d429bc16abb427fc6a
+      internalID: -365407471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_91
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1345
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad812015e10ee44496cd11485990544
+      internalID: -1594298234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_92
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1345
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee54e526fcc5a6c4e9e49373d22f71dc
+      internalID: -1147468814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_93
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1344
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7b4951fffb11c4d800e81af4dfdbeb
+      internalID: 413457927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_94
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1344
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe44dda14e3abe844ba731b81fce9aad
+      internalID: -1811395438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_95
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1344
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ad05a5d87b8ef41a1a2a6821d21ea3
+      internalID: 1211367550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_96
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1344
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa07021d186b7dd42821f6032ce85bf6
+      internalID: -462438333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_97
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1281
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6087e17654201f44aa84b16506e20b5b
+      internalID: 521265537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_98
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1280
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4287e7fe5a6574c8ab824afb861e13
+      internalID: 486965263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_99
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1280
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8b34435643f264c98f7bbed74919ba
+      internalID: 1332127968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_100
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1280
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf15c485f046f346953e3ba432c5e0a
+      internalID: -943741920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_101
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1280
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b713f74d3e53444a699bd5989425a9
+      internalID: 473768220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_102
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1280
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275ec9102e4638c4cb9237b37c501029
+      internalID: -737271581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_103
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1216
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411dc59c7d5b67e4b9390aada79ac538
+      internalID: 1873560774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_104
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1216
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72025f5ad85c2743a4306d981f53751
+      internalID: 1572369655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_105
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1216
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: accac0780f930c54aa5eee4eabbf7156
+      internalID: 923923098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_106
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1216
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df212deba4ec6c34294d4fb78eb027a7
+      internalID: 1564817353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_107
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1216
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581e767a759aaf742bbf3bb1eb6c6f97
+      internalID: -1860709630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_108
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1216
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3f165e950f71e47b3d218b737d9771
+      internalID: -1571265974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_109
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1151
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e00bf54f532cd4eb27fe49385d6276
+      internalID: -82284196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_110
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1151
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6b93a87e446074cb0ac83c92578238
+      internalID: 999281331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_111
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1151
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5c6c6f912015e45a2295f366088a0f
+      internalID: -223403454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_112
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1151
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8407ffeda683e04f945b3fdb6d6a1ea
+      internalID: -72452194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_113
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1151
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859404412b9571242beb22853e80c1cc
+      internalID: 987874259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_114
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1151
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ec6dd9a238daa4eb270597f953a256
+      internalID: 1170143540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_115
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1087
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0bc06f30aa838f408af24b0d904f9bf
+      internalID: -996822161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_116
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1087
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd96a75a210cc548a1dba10964f5a3a
+      internalID: 164635758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_117
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1087
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21dc8e0ae6f65f248b260cd4726d421c
+      internalID: 642597307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_118
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1087
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d22c233b9b62f4aba2680add6f35ce
+      internalID: -1614778406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_119
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1087
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cef23721c6ce8c41a7a6726656d0b2b
+      internalID: 1231610630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_120
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1087
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9b021ffd2bec843b2db0f96ec14991
+      internalID: -1539063022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_121
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1025
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1c2956ae5351c4faebaffe6ff111ab
+      internalID: 1269958443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_122
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1023
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e969ecc54400ab46bdef4710492c7c7
+      internalID: -209292954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_123
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1023
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f888fc8b28fcfe48bb8c1fd83787d93
+      internalID: -1686430871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_124
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1023
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f24e7acbfe7e3c4c9a4d913290bba61
+      internalID: 468580992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_125
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1023
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920abfa24751e4a4d90315edc57a7db8
+      internalID: -1138252564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_126
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1023
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304160609119044419232cfc4831e16d
+      internalID: -1444591153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_127
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1023
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3627161764aad6f4e9c1ef795e548765
+      internalID: -1480763694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_128
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1023
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a43b5077b6832478445d57d8fd231d
+      internalID: 446973412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_129
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1023
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0bb3599e2add74d9cbff3f1b202799
+      internalID: -1377474454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_130
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1023
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf35dacd77468d45ad16aaa1b443a54
+      internalID: -1341107358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_131
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1023
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4934a8d7a138dc649b9c8f4b4757c030
+      internalID: -632958905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_132
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1023
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918e2f0282a6b844798825189c8db1be
+      internalID: -714570417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_133
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1023
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea91a435b4410644c876c11ccfa02279
+      internalID: -1150115059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_134
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 961
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8fcfd35a492a054586bbffc8b4a6640
+      internalID: 1411496717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_135
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 961
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15619001088e8fb4bb102b903d403f6d
+      internalID: -956955511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_136
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 961
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a450ae44f7945439b8787367bb1f8c
+      internalID: -2015020048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_137
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 961
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415b6dbba2c50ff43a475a53f94ecbbb
+      internalID: 1661190766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_138
       rect:
         serializedVersion: 2
         x: 268
-        y: 0
-        width: 37
-        height: 33
+        y: 961
+        width: 39
+        height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3815,20 +3017,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2cc673b312963614aad667eba41dfef5
-      internalID: -867906725
+      spriteID: 7d247956df238bd4daa3990fd212f5f4
+      internalID: 1327601466
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_177
+      name: Adhamra33_139
       rect:
         serializedVersion: 2
-        x: 332
-        y: 1
+        x: 331
+        y: 961
         width: 40
-        height: 35
+        height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3836,8 +3038,1583 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2327623d0bf6036458eb15be1023f8de
-      internalID: 663914890
+      spriteID: 66269a5c9475bb64b801c3c94d831e65
+      internalID: -1065718620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_140
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 961
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542c441ad9a0afd4d95a136f923735b7
+      internalID: 606125844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_141
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 961
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf65ac4ca588a746ac1eff2b5861f76
+      internalID: -231821662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_142
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 961
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949e20bfbd3a54c4eac6fcd18c527773
+      internalID: -1103321456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_143
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 961
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1070c99373d714283699698cef268c
+      internalID: -1096380048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_144
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 961
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797c9bcf5d1e0bc40a021acb904ddb83
+      internalID: 1124422023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_145
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 961
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7123a9e1b6d4344a4af911f0a49794
+      internalID: -273280809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_146
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 961
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b13a4b59bb3044c895c4296fbd6437
+      internalID: -1638208696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_147
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 896
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35133749f32c0664f8a504e1bd7e6ebe
+      internalID: 2076513632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_148
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 898
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516dd9a7c422b4b40968e6cdf4dd3114
+      internalID: 495103706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_149
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 898
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e9e65d805033043978cba4fa6b02a8
+      internalID: 1522378395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_150
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 897
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19141449667221744924ed65472835c7
+      internalID: -1325428581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_151
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 897
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10fb175032f6c9348b6f4fdd56c33b13
+      internalID: -1109491469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_152
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 897
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa55867b9b903646a46779081f74593
+      internalID: -1441244437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_153
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 897
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d185df7b684b3945a3ff8749f15278c
+      internalID: -1489493001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_154
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 897
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54655c4919582341b0bb167e45c81fe
+      internalID: 1342764136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_155
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 897
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b23462b5d186643aa0ab8ccaffb6bc
+      internalID: -1508117405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_156
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 897
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21414134d10bd2a4aafc22895e236e85
+      internalID: -1690505144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_157
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 897
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3cbedf68d304ae4b83ffa363997c04e
+      internalID: -826255587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_158
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 897
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6385587b9e126744a9030e20ea2c55ec
+      internalID: -306518637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_159
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 897
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b438691c2ef9c345ae8e53eeedd99be
+      internalID: -1923259966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_160
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 832
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120b01e665accf94c96ef616570e6a6d
+      internalID: -71383246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_161
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 832
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3ae4e68081839458a15e0397326330
+      internalID: -276773965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_162
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 832
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c239cc1e9d9c0a546819e724a768cda3
+      internalID: -1609529215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_163
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 832
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e003233e3951d4f9d204803333bd35
+      internalID: -1953034839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_164
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 832
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb306e7af089af43b1e56226ace744c
+      internalID: 1870302355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_165
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 832
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9130db1905bf6f04f9f6aa012f6a51b0
+      internalID: -1994737468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_166
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 832
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9989f9fd43d6e19469a213aa34b98e40
+      internalID: -484705940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_167
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 832
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d954133f4f9e0419ee0c8145bfee7f
+      internalID: -934394439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_168
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 832
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db49eb4a8cd828408e4736045d9d5ca
+      internalID: -1757110511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_169
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 832
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335cff7cc356af543addc9d4cb7d7f80
+      internalID: -1151942880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_170
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 832
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95cac80fa4975ce4589cfe9a1456ee24
+      internalID: 1301739535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_171
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 832
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6227eaab52dfd6940967ff9e5681d37c
+      internalID: -802213834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_172
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 832
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3eb08fcc78fa649b31bf88122df55d
+      internalID: 468365694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_173
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 768
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f077578c75d5a4fb4d7a73e2da8a9a
+      internalID: -1884537258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_174
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 769
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750c6236b3fe1a8419aab3873ad44fb8
+      internalID: -1492707538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_175
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 769
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c030a10ad67f7b441921c7246d0bb307
+      internalID: 1503746538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_176
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 770
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf52ac58fc990f4fa2a154f35c56277
+      internalID: 1950564279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_177
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 770
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30422a6d557a81d488e32d1c474bd13b
+      internalID: -1398422354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_178
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 768
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01464f189fc8c344982b56481d1f63d2
+      internalID: 1750549949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_179
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 707
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43d047970957c243a802d0cdbf38878
+      internalID: -770636111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_180
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 723
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea4979bfd26106488f68ea9c38878bd
+      internalID: -163974742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_181
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 640
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909f1e96c55e9984aaa179f91fbd9886
+      internalID: -1353724734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_182
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 640
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6313236888a0fd64c8adcd23f27f3388
+      internalID: -2009204827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_183
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 640
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc13e415c582e5645aac5795cdd40f53
+      internalID: -1762015498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_184
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 640
+        width: 31
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba567c706a9ffb47a3c96ec80dac548
+      internalID: 1967050243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_185
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 640
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd90ebb5adefd047840938494813c64
+      internalID: -74503908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_186
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 641
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262698846d663ed4fb4c7b584c7d3cf6
+      internalID: -1622045213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_187
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 449
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b594a35eadc9874b974cb4ebabef233
+      internalID: 576381517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_188
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 449
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305b743b9b84d854fa052bebdbf0bfc0
+      internalID: 2093131048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_189
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 462
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16217b222cb9544eb601f3a42854d4f
+      internalID: 1514535622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_190
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 449
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8158b7327b5b14d4294c71885737d4a4
+      internalID: 9928424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_191
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 460
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c930ceed836c1c24fbec426c95abca49
+      internalID: -619068186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_192
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 449
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb0b149163792c4fb95a85d5af905a3
+      internalID: -131656012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_193
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 457
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b37045c49a378468dbf3d90e6bea41
+      internalID: 1245345048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_194
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 449
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8b569ea453bcf4cb658a9622764c60
+      internalID: 1969387311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_195
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 456
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50418229186808e408c19cb677c48157
+      internalID: 926201271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_196
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 449
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c499b81d42a566e48a6a5888b8bace6d
+      internalID: -1242074117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_197
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 256
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72baa33b7aaaf24da0e3ae7e5cee06b
+      internalID: -602352805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_198
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 256
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571c152671dead04287dcad2cb7d0146
+      internalID: 1751613184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_199
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 256
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db8e5be3052a504d8e52f7f03612e07
+      internalID: -1697262546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_200
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 256
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6776b79ad12be4d94250d4e8e6a8b2
+      internalID: 2016734269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_201
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 256
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3826221c9cdafb644ac4dda5033eb293
+      internalID: -1647253958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_202
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 256
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e756a1b5ada0b6e43829c6062d76dd5f
+      internalID: 2089066897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_203
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 231
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fad44031129e654cade9b7ba6532c62
+      internalID: -990030282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_204
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 218
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00794e7ac26e4a94bb6ee673bfca21f4
+      internalID: 242420896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_205
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 198
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9fa9c7cdf1120b45b7aa5a8c9a38a92
+      internalID: 330374619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_206
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 63
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f9f6cddcb68db48977ade99dfd43aa
+      internalID: 1979912662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_207
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 63
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c393e48cde8ff19438a1644fbb13e761
+      internalID: -1302929619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_208
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 63
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796426c79ad8ead4384edc4049708bc9
+      internalID: -706352303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_209
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 63
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe3cec9f81d19d409e54e0153336eb9
+      internalID: -708118937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_210
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 77
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01bff1b890711594f822f6e977d44264
+      internalID: -1992928011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_211
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 63
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4871c4d87a048fe409621af118240acd
+      internalID: 1291198138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_212
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 74
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d0b0f7f189891499fed86dc2c59903
+      internalID: 56988050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_213
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 63
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e96be2b44d190408fe27cf54a114cb
+      internalID: -2055084986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Adhamra33_214
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 72
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0a78969e5f8804d873c73bdc613c43
+      internalID: -681644400
       vertices: []
       indices: 
       edges: []
@@ -3853,184 +4630,221 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      roka_109: -956375978
-      roka_148: -490994448
-      roka_12: 857248100
-      roka_101: 159440014
-      roka_87: -370650413
-      roka_39: -1863249929
-      roka_65: 761329696
-      roka_169: -1345468561
-      roka_151: 1808565741
-      roka_50: 986768473
-      roka_79: -1674279602
-      roka_161: 1236138083
-      roka_21: 774090653
-      roka_137: 1943236624
-      roka_114: -1742015045
-      roka_51: 63247517
-      roka_26: 1489871716
-      roka_24: -1485090678
-      roka_154: -594114985
-      roka_82: -2079219589
-      roka_165: 156280386
-      roka_106: 1732956173
-      roka_138: -1736695694
-      roka_153: -668497925
-      roka_130: -298251986
-      roka_173: -419204291
-      roka_175: 1906755940
-      roka_43: 1842474373
-      roka_69: 75143336
-      roka_1: -1553987772
-      roka_146: 536914633
-      roka_75: 1440518540
-      roka_29: 216041535
-      roka_143: 1937351770
-      roka_30: 1469038375
-      roka_32: -1731080692
-      roka_172: 1709072764
-      roka_34: 182979196
-      roka_31: 1915565629
-      roka_15: -406981970
-      roka_99: -586073883
-      roka_162: 804722537
-      roka_156: 715003787
-      roka_38: 1110729199
-      roka_95: -90230476
-      roka_13: -856218082
-      roka_27: 1120542688
-      roka_85: 2037323773
-      roka_55: 1912324746
-      roka_159: -1222712056
-      roka_149: 1790962708
-      roka_4: -1055138922
-      roka_139: -2078991112
-      roka_174: -430881671
-      roka_105: 268888441
-      roka_119: -896163617
-      roka_176: -867906725
-      roka_25: -2110037853
-      roka_117: -1880078013
-      roka_53: 1215253814
-      roka_118: 41251020
-      roka_166: -1363876561
-      roka_92: -1983675623
-      roka_41: 67676774
-      roka_80: -1786198826
-      roka_73: -1663758296
-      roka_150: 1480768653
-      roka_71: -516478864
-      roka_5: -536559180
-      roka_121: -1166133949
-      roka_142: -1720754840
-      roka_76: 135761655
-      roka_2: -110973693
-      roka_157: 1171878002
-      roka_127: 1714740732
-      roka_144: 1555241554
-      roka_112: 1463364947
-      roka_110: 496755698
-      roka_103: -1258809226
-      roka_58: -1005185699
-      roka_63: 1715599547
-      roka_3: -516647247
-      roka_54: -710238823
-      roka_91: 251286380
-      roka_98: 1537504338
-      roka_72: 2047933894
-      roka_42: 647429684
-      roka_66: -387349089
-      roka_17: 628574340
-      roka_6: 422871144
-      roka_128: -342219665
-      roka_152: 1257648496
-      roka_164: 315741601
-      roka_134: -305612886
-      roka_67: -1689012370
-      roka_45: -1867020253
-      roka_11: -712586204
-      roka_74: -1380403205
-      roka_83: -1709272038
-      roka_18: -141096528
-      roka_136: -1797907247
-      roka_60: 1322980195
-      roka_170: -1831322416
-      roka_96: 923735986
-      roka_22: -257580310
-      roka_40: 877579612
-      roka_57: -1239305496
-      roka_97: 325515247
-      roka_158: -476070374
-      roka_9: -460692306
-      roka_14: -1288997021
-      roka_88: -1352385657
-      roka_129: -897830808
-      roka_147: -1075503341
-      roka_7: 1180383337
-      roka_113: -896330804
-      roka_8: 1955329924
-      roka_141: 1634257402
-      roka_115: 817787121
-      roka_131: -940482052
-      roka_86: -1882305661
-      roka_23: -1258931391
-      roka_48: -971522396
-      roka_61: 139327471
-      roka_155: 471252273
-      roka_167: -1451992017
-      roka_124: 33551600
-      roka_116: -65257775
-      roka_62: 1420953765
-      roka_37: -1777257994
-      roka_78: 1539424699
-      roka_168: 582271744
-      roka_46: -1984579829
-      roka_16: 1454573188
-      roka_171: 953221174
-      roka_107: 943520243
-      roka_10: -42069937
-      roka_0: 463468730
-      roka_19: -618657347
-      roka_163: 1137410506
-      roka_123: 738385293
-      roka_125: 915844840
-      roka_90: -143634420
-      roka_94: 824889244
-      roka_77: 922115763
-      roka_49: -366234711
-      roka_33: 2075476891
-      roka_140: -256667700
-      roka_35: 495304558
-      roka_52: 1222363505
-      roka_89: -1574779970
-      roka_108: -680239816
-      roka_133: 1145687624
-      roka_93: 1228978524
-      roka_126: -1988091817
-      roka_36: -429856858
-      roka_44: -1370818531
-      roka_177: 663914890
-      roka_84: -749958280
-      roka_20: 817472747
-      roka_81: 856169441
-      roka_28: -1612117072
-      roka_120: 746077501
-      roka_47: 515553149
-      roka_56: -676987611
-      roka_64: -1653351346
-      roka_68: -252969466
-      roka_104: -661899086
-      roka_132: 332716917
-      roka_102: 1973080297
-      roka_160: -1146904624
-      roka_59: 207264128
-      roka_70: -1417629562
-      roka_135: -967686021
-      roka_100: -1976363142
-      roka_111: -12859662
-      roka_145: 625444914
-      roka_122: 1722155057
+      Adhamra33_110: 999281331
+      Adhamra33_145: -273280809
+      Adhamra33_159: -1923259966
+      Adhamra33_30: 336697321
+      Adhamra33_112: -72452194
+      Adhamra33_184: 1967050243
+      Adhamra33_214: -681644400
+      Adhamra33_38: -735771266
+      Adhamra33_103: 1873560774
+      Adhamra33_123: -1686430871
+      Adhamra33_109: -82284196
+      Adhamra33_28: -1043391243
+      Adhamra33_56: 861472732
+      Adhamra33_36: 917780108
+      Adhamra33_105: 923923098
+      Adhamra33_213: -2055084986
+      Adhamra33_131: -632958905
+      Adhamra33_211: 1291198138
+      Adhamra33_60: 1086423067
+      Adhamra33_1: -1344489611
+      Adhamra33_45: -153046258
+      Adhamra33_133: -1150115059
+      Adhamra33_113: 987874259
+      Adhamra33_171: -802213834
+      Adhamra33_207: -1302929619
+      Adhamra33_212: 56988050
+      Adhamra33_139: -1065718620
+      Adhamra33_138: 1327601466
+      Adhamra33_18: -264771987
+      Adhamra33_132: -714570417
+      Adhamra33_95: 1211367550
+      Adhamra33_46: -567359863
+      Adhamra33_85: 968554839
+      Adhamra33_77: -698304566
+      Adhamra33_119: 1231610630
+      Adhamra33_81: 1743056915
+      Adhamra33_170: 1301739535
+      Adhamra33_100: -943741920
+      Adhamra33_163: -1953034839
+      Adhamra33_188: 2093131048
+      Adhamra33_196: -1242074117
+      Adhamra33_136: -2015020048
+      Adhamra33_93: 413457927
+      Adhamra33_24: 1391279210
+      Adhamra33_50: -548703005
+      Adhamra33_152: -1441244437
+      Adhamra33_158: -306518637
+      Adhamra33_164: 1870302355
+      Adhamra33_71: -1934285221
+      Adhamra33_189: 1514535622
+      Adhamra33_126: -1444591153
+      Adhamra33_62: -1889080143
+      Adhamra33_124: 468580992
+      Adhamra33_157: -826255587
+      Adhamra33_72: 1406899773
+      Adhamra33_51: 380898445
+      Adhamra33_26: -1627525698
+      Adhamra33_3: 1481903052
+      Adhamra33_27: -1062241564
+      Adhamra33_192: -131656012
+      Adhamra33_55: 185450942
+      Adhamra33_104: 1572369655
+      Adhamra33_15: -1799138181
+      Adhamra33_101: 473768220
+      Adhamra33_181: -1353724734
+      Adhamra33_66: -1172475859
+      Adhamra33_134: 1411496717
+      Adhamra33_173: -1884537258
+      Adhamra33_52: -144620793
+      Adhamra33_14: -1037066095
+      Adhamra33_144: 1124422023
+      Adhamra33_6: -914182487
+      Adhamra33_90: -365407471
+      Adhamra33_63: 716581977
+      Adhamra33_35: 1824493174
+      Adhamra33_210: -1992928011
+      Adhamra33_111: -223403454
+      Adhamra33_187: 576381517
+      Adhamra33_106: 1564817353
+      Adhamra33_67: -603603371
+      Adhamra33_118: -1614778406
+      Adhamra33_65: 2104882169
+      Adhamra33_83: 1613103395
+      Adhamra33_84: 1766239801
+      Adhamra33_205: 330374619
+      Adhamra33_25: -1003440653
+      Adhamra33_47: -102391391
+      Adhamra33_74: -547461694
+      Adhamra33_186: -1622045213
+      Adhamra33_200: 2016734269
+      Adhamra33_193: 1245345048
+      Adhamra33_91: -1594298234
+      Adhamra33_191: -619068186
+      Adhamra33_54: -1989369454
+      Adhamra33_114: 1170143540
+      Adhamra33_120: -1539063022
+      Adhamra33_121: 1269958443
+      Adhamra33_148: 495103706
+      Adhamra33_68: -582676328
+      Adhamra33_156: -1690505144
+      Adhamra33_37: -1486696687
+      Adhamra33_0: -1910137312
+      Adhamra33_176: 1950564279
+      Adhamra33_43: -864509476
+      Adhamra33_32: 2092660149
+      Adhamra33_11: 1636857585
+      Adhamra33_185: -74503908
+      Adhamra33_58: -935437690
+      Adhamra33_195: 926201271
+      Adhamra33_16: -993049761
+      Adhamra33_86: -1934624382
+      Adhamra33_135: -956955511
+      Adhamra33_140: 606125844
+      Adhamra33_160: -71383246
+      Adhamra33_172: 468365694
+      Adhamra33_13: -342957302
+      Adhamra33_165: -1994737468
+      Adhamra33_102: -737271581
+      Adhamra33_198: 1751613184
+      Adhamra33_194: 1969387311
+      Adhamra33_87: 1110692363
+      Adhamra33_96: -462438333
+      Adhamra33_128: 446973412
+      Adhamra33_7: 1068400600
+      Adhamra33_153: -1489493001
+      Adhamra33_23: -1437893125
+      Adhamra33_97: 521265537
+      Adhamra33_88: -1940251821
+      Adhamra33_64: 339984811
+      Adhamra33_10: -2030360562
+      Adhamra33_31: -1862993039
+      Adhamra33_177: -1398422354
+      Adhamra33_174: -1492707538
+      Adhamra33_203: -990030282
+      Adhamra33_98: 486965263
+      Adhamra33_208: -706352303
+      Adhamra33_166: -484705940
+      Adhamra33_78: -1876944822
+      Adhamra33_80: -120139544
+      Adhamra33_180: -163974742
+      Adhamra33_167: -934394439
+      Adhamra33_59: -2131636835
+      Adhamra33_162: -1609529215
+      Adhamra33_39: 820679270
+      Adhamra33_61: 1397905506
+      Adhamra33_122: -209292954
+      Adhamra33_8: -1606701265
+      Adhamra33_130: -1341107358
+      Adhamra33_142: -1103321456
+      Adhamra33_69: -222820692
+      Adhamra33_17: -1890798899
+      Adhamra33_34: 452694455
+      Adhamra33_137: 1661190766
+      Adhamra33_201: -1647253958
+      Adhamra33_149: 1522378395
+      Adhamra33_57: -1736791648
+      Adhamra33_116: 164635758
+      Adhamra33_129: -1377474454
+      Adhamra33_99: 1332127968
+      Adhamra33_12: -1641254346
+      Adhamra33_143: -1096380048
+      Adhamra33_115: -996822161
+      Adhamra33_29: -742003234
+      Adhamra33_79: 1833252657
+      Adhamra33_197: -602352805
+      Adhamra33_182: -2009204827
+      Adhamra33_40: 1814584705
+      Adhamra33_209: -708118937
+      Adhamra33_22: 2079235624
+      Adhamra33_76: -355269447
+      Adhamra33_183: -1762015498
+      Adhamra33_141: -231821662
+      Adhamra33_168: -1757110511
+      Adhamra33_202: 2089066897
+      Adhamra33_41: 1626046926
+      Adhamra33_146: -1638208696
+      Adhamra33_155: -1508117405
+      Adhamra33_107: -1860709630
+      Adhamra33_190: 9928424
+      Adhamra33_150: -1325428581
+      Adhamra33_108: -1571265974
+      Adhamra33_125: -1138252564
+      Adhamra33_5: 1804521620
+      Adhamra33_44: 355268648
+      Adhamra33_175: 1503746538
+      Adhamra33_48: 1626250670
+      Adhamra33_204: 242420896
+      Adhamra33_151: -1109491469
+      Adhamra33_94: -1811395438
+      Adhamra33_179: -770636111
+      Adhamra33_161: -276773965
+      Adhamra33_9: -1810079980
+      Adhamra33_4: -1190267524
+      Adhamra33_147: 2076513632
+      Adhamra33_169: -1151942880
+      Adhamra33_73: 1713850412
+      Adhamra33_117: 642597307
+      Adhamra33_89: -269486705
+      Adhamra33_21: 262095564
+      Adhamra33_42: -281654724
+      Adhamra33_206: 1979912662
+      Adhamra33_199: -1697262546
+      Adhamra33_82: -854040118
+      Adhamra33_33: -1921437011
+      Adhamra33_20: 967254108
+      Adhamra33_53: -1715054844
+      Adhamra33_19: 1647251770
+      Adhamra33_92: -1147468814
+      Adhamra33_127: -1480763694
+      Adhamra33_178: 1750549949
+      Adhamra33_154: 1342764136
+      Adhamra33_2: 689268992
+      Adhamra33_70: 1583170615
+      Adhamra33_49: -1273241558
+      Adhamra33_75: -1571788799
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

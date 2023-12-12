@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Abdo_56
   layers:
   - Default
   - TransparentFX
@@ -47,7 +48,10 @@ TagManager:
   - name: Ground
     uniqueID: 1593196411
     locked: 0
-  - name: Objects
+  - name: Objects1
+    uniqueID: 657500477
+    locked: 0
+  - name: Objects2
     uniqueID: 161223319
     locked: 0
   - name: Character

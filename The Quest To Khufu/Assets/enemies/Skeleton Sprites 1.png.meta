@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 314da0abcd9d2344398aa6f5e45d49bf
+guid: d57b6932fbd7adf41b621f144a5cfd0a
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -105,13 +105,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: roka_0
+      name: Skeleton Sprites_0
       rect:
         serializedVersion: 2
-        x: 15
+        x: 17
         y: 1282
-        width: 35
-        height: 48
+        width: 30
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -119,20 +119,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 10ac59206605ce5418f7dc4aca5af56a
-      internalID: 463468730
+      spriteID: 3914e088bd3319b499b037c8669c18d3
+      internalID: 196744839
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_1
+      name: Skeleton Sprites_1
       rect:
         serializedVersion: 2
-        x: 79
+        x: 83
         y: 1282
-        width: 35
-        height: 48
+        width: 26
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -140,20 +140,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9af326dff46333a4cb7ba21521b615e3
-      internalID: -1553987772
+      spriteID: b2520abc308483a439dab4aa752d9404
+      internalID: -2073043276
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_2
+      name: Skeleton Sprites_2
       rect:
         serializedVersion: 2
-        x: 143
+        x: 147
         y: 1282
-        width: 35
-        height: 48
+        width: 26
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -161,20 +161,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 97445319179909c42af586e1d2e89cb3
-      internalID: -110973693
+      spriteID: 3747286bb304fa640b50be3c01322661
+      internalID: 1729339212
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_3
+      name: Skeleton Sprites_3
       rect:
         serializedVersion: 2
-        x: 207
+        x: 206
         y: 1282
-        width: 35
-        height: 48
+        width: 36
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -182,20 +182,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 74599b4a81da423498dc76107e85fcd7
-      internalID: -516647247
+      spriteID: ffaac571b0f849f438adceff374866a5
+      internalID: -1738882516
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_4
+      name: Skeleton Sprites_4
       rect:
         serializedVersion: 2
-        x: 266
+        x: 263
         y: 1282
-        width: 44
-        height: 48
+        width: 50
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -203,20 +203,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eab87c32355449341b8a47cb6a865013
-      internalID: -1055138922
+      spriteID: fd3911901a323d74396b64d2dc38d005
+      internalID: 1778156744
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_5
+      name: Skeleton Sprites_5
       rect:
         serializedVersion: 2
-        x: 330
+        x: 328
         y: 1282
-        width: 44
-        height: 48
+        width: 48
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -224,20 +224,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 24455451d684fb8438124f9dc9d8c75f
-      internalID: -536559180
+      spriteID: 0d8c8bde5ceeda34b9e49db7f77b2e21
+      internalID: -1906270019
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_6
+      name: Skeleton Sprites_6
       rect:
         serializedVersion: 2
-        x: 399
+        x: 398
         y: 1282
-        width: 77
-        height: 48
+        width: 36
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -245,20 +245,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6c420f208c2edd140b14c68aec73181e
-      internalID: 422871144
+      spriteID: 48a6523605ec43e48ad01a1c59bd1965
+      internalID: -1446616423
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_7
+      name: Skeleton Sprites_7
       rect:
         serializedVersion: 2
-        x: 21
+        x: 23
         y: 1218
-        width: 27
-        height: 49
+        width: 20
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -266,20 +266,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3f2af932781ab204887561d41d701e37
-      internalID: 1180383337
+      spriteID: 87e728ab88fa863438c4b21ea418e894
+      internalID: -1028400003
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_8
+      name: Skeleton Sprites_8
       rect:
         serializedVersion: 2
         x: 85
         y: 1218
-        width: 27
-        height: 49
+        width: 23
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -287,20 +287,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f46d170a0880c8040a4b28e8f5dd0a37
-      internalID: 1955329924
+      spriteID: 8b0be8b70b0e32e43aeaafb63286583f
+      internalID: 32900044
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_9
+      name: Skeleton Sprites_9
       rect:
         serializedVersion: 2
-        x: 149
+        x: 150
         y: 1218
-        width: 27
-        height: 49
+        width: 21
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -308,20 +308,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b8473b0f345264a488050a07a665ad19
-      internalID: -460692306
+      spriteID: 8fae6c45d682d194bb0a8080ecc2a13d
+      internalID: -1653291252
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_10
+      name: Skeleton Sprites_10
       rect:
         serializedVersion: 2
         x: 212
         y: 1218
-        width: 28
-        height: 49
+        width: 26
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -329,20 +329,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: faaae2b94462044408716dcb0752369f
-      internalID: -42069937
+      spriteID: 71b11e169c8da8d4f9f6d9f2d0e47eaf
+      internalID: -1669929812
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_11
+      name: Skeleton Sprites_11
       rect:
         serializedVersion: 2
         x: 274
         y: 1218
-        width: 32
-        height: 49
+        width: 33
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -350,20 +350,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c211de1a99adaec4c9031724dfb3b93e
-      internalID: -712586204
+      spriteID: 9c342a04e57838b409e2ee76ec7bc045
+      internalID: -2099992131
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_12
+      name: Skeleton Sprites_12
       rect:
         serializedVersion: 2
         x: 338
         y: 1218
-        width: 32
-        height: 49
+        width: 33
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -371,20 +371,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 339c875ef869a1643bf5c2f5b620c951
-      internalID: 857248100
+      spriteID: c5ab1744dc4206f4aa918d3d870fb9a7
+      internalID: -971342877
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_13
+      name: Skeleton Sprites_13
       rect:
         serializedVersion: 2
         x: 404
         y: 1218
         width: 28
-        height: 49
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -392,20 +392,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a7d975e6b01bbb140a455e70f9a409d8
-      internalID: -856218082
+      spriteID: 5d32f62fcdfc4654eb5e290d75d31239
+      internalID: 799807996
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_14
+      name: Skeleton Sprites_14
       rect:
         serializedVersion: 2
-        x: 15
+        x: 17
         y: 1154
-        width: 31
-        height: 49
+        width: 30
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -413,20 +413,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c657812279ee93c438223963f92e246a
-      internalID: -1288997021
+      spriteID: 9c669d8bf16956144a9cf6521e8c8125
+      internalID: 480279727
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_15
+      name: Skeleton Sprites_15
       rect:
         serializedVersion: 2
-        x: 79
+        x: 81
         y: 1154
-        width: 31
-        height: 49
+        width: 30
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -434,20 +434,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 204cfb4361ee6634681013eecf4f686b
-      internalID: -406981970
+      spriteID: ed4e29dacb062e545b147a0fdaf42a17
+      internalID: 86056822
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_16
+      name: Skeleton Sprites_16
       rect:
         serializedVersion: 2
-        x: 143
+        x: 147
         y: 1154
-        width: 31
-        height: 49
+        width: 26
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -455,20 +455,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 30dec6ac289d5a14da0119f38d34c42c
-      internalID: 1454573188
+      spriteID: c9acf59554006d7428471f3b1579a2da
+      internalID: 2021861498
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_17
+      name: Skeleton Sprites_17
       rect:
         serializedVersion: 2
-        x: 207
+        x: 206
         y: 1154
-        width: 33
-        height: 49
+        width: 36
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -476,20 +476,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 89e0beff9b0928c4c96577ee9dae6df5
-      internalID: 628574340
+      spriteID: 3f5c8131a03bf1646a2716a5ffd72f4d
+      internalID: 1470820332
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_18
+      name: Skeleton Sprites_18
       rect:
         serializedVersion: 2
-        x: 266
+        x: 263
         y: 1154
-        width: 44
-        height: 49
+        width: 50
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -497,20 +497,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 414099358eaa9704cbb7f9380f1b4443
-      internalID: -141096528
+      spriteID: 2e771ef295c3f294aa86891ab90e2cf1
+      internalID: 858649106
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_19
+      name: Skeleton Sprites_19
       rect:
         serializedVersion: 2
-        x: 330
+        x: 328
         y: 1154
-        width: 44
-        height: 49
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -518,20 +518,125 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5d8a747ba51e62a4ea709502015dd1ea
-      internalID: -618657347
+      spriteID: f3ac95b289abc3347b2e3a0cc89d05c7
+      internalID: -611475532
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_20
+      name: Skeleton Sprites_20
       rect:
         serializedVersion: 2
         x: 399
         y: 1154
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522282197ca1b1844bbe9c10010ea88e
+      internalID: -555185406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_21
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1090
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb87cc2a1824de44bd2b0623ab2e195
+      internalID: 117600961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_22
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1090
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd0fc5328c69ba4890f32ffdcec86f6
+      internalID: -1862523522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_23
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1090
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820ca88ac1350974a8648401e3554bf4
+      internalID: -124033272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_24
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1090
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d399d25b5ee814abd6b44a3eaac1ad
+      internalID: -950777227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_25
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1090
         width: 33
-        height: 49
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -539,20 +644,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f8b933ae544582a4eaa44720b0967fcc
-      internalID: 817472747
+      spriteID: 59c1206dca1f92f4a92763cc72c644e4
+      internalID: -1935673344
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_21
+      name: Skeleton Sprites_26
       rect:
         serializedVersion: 2
-        x: 16
+        x: 333
         y: 1090
-        width: 27
-        height: 49
+        width: 33
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -560,125 +665,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6f4152ee56d58fe418e7369bb5feba33
-      internalID: 774090653
+      spriteID: 7b5d4a69849a7694596a7f87b770bfb2
+      internalID: -754978447
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_22
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 1090
-        width: 27
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 50855dd69be4f2943b5bb4335c184b46
-      internalID: -257580310
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_23
-      rect:
-        serializedVersion: 2
-        x: 144
-        y: 1090
-        width: 27
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8323ebe2849833749858b8f54c673e25
-      internalID: -1258931391
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_24
-      rect:
-        serializedVersion: 2
-        x: 208
-        y: 1090
-        width: 28
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 27a50297a5f2c574f8e239399573d04e
-      internalID: -1485090678
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_25
-      rect:
-        serializedVersion: 2
-        x: 270
-        y: 1090
-        width: 32
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c3338d464c9cf7248b4f6bf63feb1fd5
-      internalID: -2110037853
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_26
-      rect:
-        serializedVersion: 2
-        x: 334
-        y: 1090
-        width: 32
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 172aff30110a2644c8530c1349f4299f
-      internalID: 1489871716
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_27
+      name: Skeleton Sprites_27
       rect:
         serializedVersion: 2
         x: 400
         y: 1090
         width: 28
-        height: 49
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -686,19 +686,40 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a605a73a371d4ee478377f4a2f566862
-      internalID: 1120542688
+      spriteID: 69dd54777711fd2418b44d1a304b1b1f
+      internalID: 682854087
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_28
+      name: Skeleton Sprites_28
       rect:
         serializedVersion: 2
-        x: 15
+        x: 17
         y: 1026
-        width: 35
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf22779e2ca14c4ab16d09f38695514
+      internalID: 1724975110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_29
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1024
+        width: 26
         height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -707,19 +728,61 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4d40b6789baf96744ab528f396e8fd8b
-      internalID: -1612117072
+      spriteID: 8b6e3a959cc33ce4b82acf8ce27e6056
+      internalID: -1934533264
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_29
+      name: Skeleton Sprites_30
       rect:
         serializedVersion: 2
-        x: 79
-        y: 1025
-        width: 35
+        x: 151
+        y: 1024
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb453d599347c14e8cabfb8c0fa1658
+      internalID: -577457417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_31
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1024
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f3f16986eec344bac661ce6a561e45
+      internalID: -1247447906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_32
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1024
+        width: 21
         height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -728,20 +791,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f41fd5be70824044fb8c90c8034316e4
-      internalID: 216041535
+      spriteID: 67c03d1d58b5add47b725da9ca4b7376
+      internalID: -1992088380
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_30
+      name: Skeleton Sprites_33
       rect:
         serializedVersion: 2
-        x: 144
+        x: 344
         y: 1024
-        width: 35
-        height: 50
+        width: 20
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -749,20 +812,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 58c5f5efc1abb434da6e3e7d3ac98cbf
-      internalID: 1469038375
+      spriteID: 0ee807206bb49ba498812332b88ca613
+      internalID: 1753632608
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_31
+      name: Skeleton Sprites_34
       rect:
         serializedVersion: 2
-        x: 208
+        x: 408
         y: 1024
-        width: 35
-        height: 50
+        width: 21
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -770,19 +833,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1bf1aaedd2a210244895ff389b5a6a20
-      internalID: 1915565629
+      spriteID: 53612f862badd52468947858d1065278
+      internalID: -1745375824
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_32
+      name: Skeleton Sprites_35
       rect:
         serializedVersion: 2
-        x: 273
+        x: 471
         y: 1024
-        width: 35
+        width: 20
         height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -791,83 +854,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0c92b66947be792479da0a84b98d96f9
-      internalID: -1731080692
+      spriteID: f68063d6441301a468b470b33180be66
+      internalID: 2085725578
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_33
+      name: Skeleton Sprites_36
       rect:
         serializedVersion: 2
-        x: 337
-        y: 1024
-        width: 35
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 850ed4361754ecf4a98c58d98b1f1b0f
-      internalID: 2075476891
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_34
-      rect:
-        serializedVersion: 2
-        x: 401
-        y: 1024
-        width: 35
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4ecad03cf4be46c43858202f0156faa2
-      internalID: 182979196
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_35
-      rect:
-        serializedVersion: 2
-        x: 464
-        y: 1024
-        width: 35
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6e6a3ca217de68646af7cc7df13b073f
-      internalID: 495304558
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_36
-      rect:
-        serializedVersion: 2
-        x: 21
+        x: 23
         y: 962
-        width: 27
-        height: 49
+        width: 20
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -875,20 +875,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d5ab5a12c79d4e849b27dcbcef2ded27
-      internalID: -429856858
+      spriteID: f4b441adeadcb8f47be1f3503b97d8e7
+      internalID: -2137585707
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_37
+      name: Skeleton Sprites_37
       rect:
         serializedVersion: 2
         x: 83
         y: 962
-        width: 29
-        height: 49
+        width: 24
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -896,187 +896,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 97d73d00d8e64e34eaa25a2d89229c7d
-      internalID: -1777257994
+      spriteID: e2238f01dead4d841a93d57580d5e56a
+      internalID: 275176398
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_38
+      name: Skeleton Sprites_38
       rect:
         serializedVersion: 2
         x: 147
         y: 962
-        width: 29
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fdc10850e4ca7dc439330721d08c44b4
-      internalID: 1110729199
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_39
-      rect:
-        serializedVersion: 2
-        x: 213
-        y: 962
         width: 27
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f8e064fe568fd5643ad0d41ee1996afb
-      internalID: -1863249929
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_40
-      rect:
-        serializedVersion: 2
-        x: 272
-        y: 962
-        width: 30
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fc4fba9b3fcee0648946c8074d02e4fc
-      internalID: 877579612
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_41
-      rect:
-        serializedVersion: 2
-        x: 333
-        y: 962
-        width: 33
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a35e4b3b993f6cb4c82922851eb2b507
-      internalID: 67676774
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_42
-      rect:
-        serializedVersion: 2
-        x: 400
-        y: 962
-        width: 30
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ce6fab172860544419ec6991f37e00ba
-      internalID: 647429684
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_43
-      rect:
-        serializedVersion: 2
-        x: 469
-        y: 962
-        width: 27
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 31b886d96f70977488feda124cbe92d3
-      internalID: 1842474373
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_44
-      rect:
-        serializedVersion: 2
-        x: 15
-        y: 898
-        width: 31
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8550400c89db26b4bacdd1612d93c0f1
-      internalID: -1370818531
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_45
-      rect:
-        serializedVersion: 2
-        x: 79
-        y: 898
-        width: 31
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c1e12787fa5f7ec48b62d4e50f5898d2
-      internalID: -1867020253
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_46
-      rect:
-        serializedVersion: 2
-        x: 143
-        y: 899
-        width: 31
         height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1085,19 +917,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 17c296d43bec9c94caacd2499de4f0b5
-      internalID: -1984579829
+      spriteID: eeca9d24957b5e2449eb776ca9b7a778
+      internalID: -2051992015
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_47
+      name: Skeleton Sprites_39
       rect:
         serializedVersion: 2
-        x: 207
-        y: 899
-        width: 31
+        x: 214
+        y: 962
+        width: 24
         height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1106,20 +938,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 889eaed69d0e5d947aec277bfe427f46
-      internalID: 515553149
+      spriteID: 5c93a5aed1d52544cb6babeaae903301
+      internalID: -558205958
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_48
+      name: Skeleton Sprites_40
       rect:
         serializedVersion: 2
         x: 271
-        y: 899
-        width: 31
-        height: 47
+        y: 962
+        width: 27
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1127,20 +959,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cce4201a3d5ab114e820fc66dc74b692
-      internalID: -971522396
+      spriteID: 38929c6bfaa46ff47b0e2498002a159b
+      internalID: 1133524307
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_49
+      name: Skeleton Sprites_41
       rect:
         serializedVersion: 2
-        x: 335
-        y: 899
-        width: 31
-        height: 47
+        x: 332
+        y: 962
+        width: 30
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1148,19 +980,82 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2c55462a5c703e748b3a1ca068567a18
-      internalID: -366234711
+      spriteID: 0d6999686b18ebd41946ccf37ccf442c
+      internalID: -887761100
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_50
+      name: Skeleton Sprites_42
       rect:
         serializedVersion: 2
         x: 399
+        y: 962
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c212e15cbeba95a48b2d1636e803e11c
+      internalID: 228311225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_43
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 962
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f2245d4e4f87248a7d2373db1b616c
+      internalID: -1402408353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_44
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 898
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f14763019b42144bc09c77798c7551
+      internalID: -1526288282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_45
+      rect:
+        serializedVersion: 2
+        x: 83
         y: 899
-        width: 31
+        width: 24
         height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1169,440 +1064,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a95766ffda38ffd42a832b594c144d11
-      internalID: 986768473
+      spriteID: 2303ff29534892844a8fd44e6a8a5682
+      internalID: 442758029
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_51
-      rect:
-        serializedVersion: 2
-        x: 463
-        y: 899
-        width: 31
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c86191568c2621941af11e05c3e3082d
-      internalID: 63247517
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_52
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 834
-        width: 27
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c852db722dc3f2a46a317a751e1886f2
-      internalID: 1222363505
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_53
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 834
-        width: 29
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1f3a72ec8a9ea744a9ff730493a058b0
-      internalID: 1215253814
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_54
-      rect:
-        serializedVersion: 2
-        x: 144
-        y: 834
-        width: 29
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d2424fe247cb8f74a98f08f0ebc2135c
-      internalID: -710238823
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_55
-      rect:
-        serializedVersion: 2
-        x: 208
-        y: 834
-        width: 27
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b9ae0e6f8c353a34a8c7077072a43448
-      internalID: 1912324746
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_56
-      rect:
-        serializedVersion: 2
-        x: 274
-        y: 834
-        width: 30
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d8186a925ee9f524a9da26aabaac658e
-      internalID: -676987611
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_57
-      rect:
-        serializedVersion: 2
-        x: 338
-        y: 834
-        width: 33
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3d74c2954055ddd48b9140b9b8486918
-      internalID: -1239305496
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_58
-      rect:
-        serializedVersion: 2
-        x: 402
-        y: 834
-        width: 30
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 698aaad23aa416a4c9b96816c93c64d8
-      internalID: -1005185699
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_59
-      rect:
-        serializedVersion: 2
-        x: 464
-        y: 834
-        width: 27
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 244244fb8159faf4f906413b10fdb13b
-      internalID: 207264128
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_60
-      rect:
-        serializedVersion: 2
-        x: 15
-        y: 771
-        width: 35
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f16686a500209dc4fa2ef0d7b9ee2efc
-      internalID: 1322980195
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_61
-      rect:
-        serializedVersion: 2
-        x: 79
-        y: 770
-        width: 35
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9f4aef1dfff7036469c5436eb5cb595e
-      internalID: 139327471
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_62
-      rect:
-        serializedVersion: 2
-        x: 143
-        y: 769
-        width: 35
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9ae514c7bf4f767499eae6a86601f92b
-      internalID: 1420953765
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_63
-      rect:
-        serializedVersion: 2
-        x: 207
-        y: 768
-        width: 35
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 75c0dbe448db79741b0723ed1dd9e266
-      internalID: 1715599547
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_64
-      rect:
-        serializedVersion: 2
-        x: 271
-        y: 769
-        width: 35
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fa5ff1ae69383cf49b216db06e3819fe
-      internalID: -1653351346
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_65
-      rect:
-        serializedVersion: 2
-        x: 335
-        y: 770
-        width: 35
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8bb255a970cf4ed4f8fc2959c0942f55
-      internalID: 761329696
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_66
-      rect:
-        serializedVersion: 2
-        x: 399
-        y: 769
-        width: 35
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7b7ff0825262a3743aae43b4e22f232f
-      internalID: -387349089
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_67
-      rect:
-        serializedVersion: 2
-        x: 463
-        y: 768
-        width: 35
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f9d0e0d7c2133444bb7be2826803de3f
-      internalID: -1689012370
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_68
-      rect:
-        serializedVersion: 2
-        x: 527
-        y: 769
-        width: 35
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f1dc21e32f3c8774eb148e391bd93316
-      internalID: -252969466
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_69
-      rect:
-        serializedVersion: 2
-        x: 21
-        y: 706
-        width: 27
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f19f8aa8e5979e7488085f6454bec830
-      internalID: 75143336
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_70
-      rect:
-        serializedVersion: 2
-        x: 85
-        y: 706
-        width: 27
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8e18e3e0f6a111b4692bb53bf8b73024
-      internalID: -1417629562
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_71
+      name: Skeleton Sprites_46
       rect:
         serializedVersion: 2
         x: 149
-        y: 707
-        width: 27
-        height: 48
+        y: 899
+        width: 21
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1610,20 +1085,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1b92b163956bddd4ebb91e8521fcf901
-      internalID: -516478864
+      spriteID: 7c23f7e8d315bf94ea102079b3dd814a
+      internalID: 1462032379
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_72
+      name: Skeleton Sprites_47
       rect:
         serializedVersion: 2
-        x: 213
-        y: 707
-        width: 27
-        height: 48
+        x: 210
+        y: 899
+        width: 24
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1631,20 +1106,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6cc682b766c1fb741bf0f4403e034622
-      internalID: 2047933894
+      spriteID: 2a384ace0f59d3d43bef9da4ff1623f8
+      internalID: -1078311358
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_73
+      name: Skeleton Sprites_48
       rect:
         serializedVersion: 2
         x: 277
-        y: 706
-        width: 27
-        height: 49
+        y: 899
+        width: 21
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1652,20 +1127,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cb730708efc7a6343b7a733fd84471a6
-      internalID: -1663758296
+      spriteID: 8a013728db69dd74384e2d4c0172c812
+      internalID: -1262118118
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_74
+      name: Skeleton Sprites_49
       rect:
         serializedVersion: 2
-        x: 340
-        y: 706
-        width: 28
-        height: 48
+        x: 342
+        y: 899
+        width: 20
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1673,20 +1148,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 229042deff9eea74d8398cf77e68c242
-      internalID: -1380403205
+      spriteID: 7440e6dfebf468f4e90788cd66ec7e33
+      internalID: -895184235
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_75
+      name: Skeleton Sprites_50
       rect:
         serializedVersion: 2
         x: 405
-        y: 706
-        width: 27
-        height: 49
+        y: 899
+        width: 21
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1694,20 +1169,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d1e438440fcf4dd4b9221a94a1674f7e
-      internalID: 1440518540
+      spriteID: 5f83657852450b5419a93a824734053e
+      internalID: -1105974363
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_76
+      name: Skeleton Sprites_51
       rect:
         serializedVersion: 2
-        x: 469
-        y: 706
-        width: 27
-        height: 49
+        x: 466
+        y: 899
+        width: 24
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1715,545 +1190,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 52616214c1aaeef42aa5baba84070415
-      internalID: 135761655
+      spriteID: 446490156185dde4f9ceb2b1c6691720
+      internalID: -714920755
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_77
-      rect:
-        serializedVersion: 2
-        x: 533
-        y: 706
-        width: 27
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 103d21c68deab1b46879338985a940d0
-      internalID: 922115763
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_78
-      rect:
-        serializedVersion: 2
-        x: 15
-        y: 642
-        width: 31
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f88bc1c3adb490b4d847f86e316c3e9c
-      internalID: 1539424699
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_79
-      rect:
-        serializedVersion: 2
-        x: 79
-        y: 642
-        width: 31
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a2332012b67017c4cac7d74ab00c860f
-      internalID: -1674279602
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_80
-      rect:
-        serializedVersion: 2
-        x: 143
-        y: 641
-        width: 31
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ca6c513f60f268a44979beff874fee36
-      internalID: -1786198826
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_81
-      rect:
-        serializedVersion: 2
-        x: 207
-        y: 641
-        width: 31
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bd3b4638a35111d4ba0d0de2327b29e5
-      internalID: 856169441
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_82
-      rect:
-        serializedVersion: 2
-        x: 271
-        y: 641
-        width: 31
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b4dccacdd7054dd4f996e68cae395770
-      internalID: -2079219589
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_83
-      rect:
-        serializedVersion: 2
-        x: 335
-        y: 642
-        width: 31
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 955ac0685adbb444e859ed16cc063230
-      internalID: -1709272038
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_84
-      rect:
-        serializedVersion: 2
-        x: 399
-        y: 641
-        width: 31
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d11e7f27f681b5a4ea1394ea805353ab
-      internalID: -749958280
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_85
-      rect:
-        serializedVersion: 2
-        x: 463
-        y: 641
-        width: 31
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f314d34ff57e5f24cbadba27dbce8e8b
-      internalID: 2037323773
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_86
-      rect:
-        serializedVersion: 2
-        x: 527
-        y: 641
-        width: 31
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f9578f4e7665cbb45a76eb3eec0b06a0
-      internalID: -1882305661
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_87
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 578
-        width: 27
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: dc60b002d780e7b4aaa8882a5874bf1a
-      internalID: -370650413
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_88
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 578
-        width: 27
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c1cb50d71bdb5e1468c3e57d43ecca20
-      internalID: -1352385657
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_89
-      rect:
-        serializedVersion: 2
-        x: 144
-        y: 579
-        width: 27
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3981449c46098c04c8886ccd103ba51a
-      internalID: -1574779970
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_90
-      rect:
-        serializedVersion: 2
-        x: 208
-        y: 579
-        width: 27
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 31e75b12c30d4f64d9d989596a3d01fe
-      internalID: -143634420
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_91
-      rect:
-        serializedVersion: 2
-        x: 272
-        y: 578
-        width: 27
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 61a5a15b6eac94c4a924e8bb67406fe1
-      internalID: 251286380
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_92
-      rect:
-        serializedVersion: 2
-        x: 336
-        y: 578
-        width: 28
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 36ac269a2d40239439a9fd6b34147de6
-      internalID: -1983675623
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_93
-      rect:
-        serializedVersion: 2
-        x: 400
-        y: 578
-        width: 27
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c29e6c8469ad8d842a619be5c512a02d
-      internalID: 1228978524
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_94
-      rect:
-        serializedVersion: 2
-        x: 464
-        y: 578
-        width: 27
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a43c65806d0480847a00d923b5fd2836
-      internalID: 824889244
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_95
-      rect:
-        serializedVersion: 2
-        x: 528
-        y: 578
-        width: 27
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 432ab5e78881419469679a9569ec3d1b
-      internalID: -90230476
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_96
-      rect:
-        serializedVersion: 2
-        x: 15
-        y: 514
-        width: 35
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f43f7aa430612fb4b81ea278db6011f3
-      internalID: 923735986
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_97
-      rect:
-        serializedVersion: 2
-        x: 79
-        y: 513
-        width: 35
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: adec703491e588c41bfa88b6941da81c
-      internalID: 325515247
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_98
-      rect:
-        serializedVersion: 2
-        x: 142
-        y: 513
-        width: 35
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5e7d951055d29ad4b8d6faa717363c93
-      internalID: 1537504338
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_99
-      rect:
-        serializedVersion: 2
-        x: 208
-        y: 513
-        width: 35
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cd45bbf099d129d4e8ec4422653499a2
-      internalID: -586073883
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_100
-      rect:
-        serializedVersion: 2
-        x: 273
-        y: 513
-        width: 37
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 184ec100c91f9c144b2e97ccfa66b205
-      internalID: -1976363142
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_101
-      rect:
-        serializedVersion: 2
-        x: 337
-        y: 513
-        width: 40
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: dc10f3e8a40158444bfd0dca9d31b3d7
-      internalID: 159440014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_102
+      name: Skeleton Sprites_52
       rect:
         serializedVersion: 2
         x: 21
-        y: 450
-        width: 27
-        height: 49
+        y: 834
+        width: 20
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2261,20 +1211,1070 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d587be87900a4d14a85ba106b5e85654
-      internalID: 1973080297
+      spriteID: e342ae6e5dd75364ea1fa1a03d3e6d05
+      internalID: 1237615734
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_103
+      name: Skeleton Sprites_53
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 834
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6365ed6bf9c2745ace8af4e4fbb93e
+      internalID: -1082817883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_54
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 834
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294b97020a696dc4f904d11396a85daf
+      internalID: -1690926640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_55
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 834
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebb3946417a36145b8f7c220e13c972
+      internalID: -125851970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_56
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 834
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a2adc4446b2f54aa9e3fd165f5ccdc
+      internalID: 803529988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_57
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 834
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5780c5b9d3f563d4e9e002ed6a4a8ce7
+      internalID: -773318660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_58
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 834
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8d095c0a1c1524f8c94ee30240f3a1
+      internalID: -249239582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_59
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 834
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6e3e0c55eabfe4c96b890bf3c827d0
+      internalID: -475990561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_60
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 772
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d97fba7d49457f46a8f0e688779ce94
+      internalID: -760463281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_61
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 772
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c953b0b16acc2c248b6be3400a2f74b3
+      internalID: -779873902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_62
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 771
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8452f5d1adcbb94eb409e28ffc53c3e
+      internalID: -122151334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_63
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 770
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da683d0d2ba148478363775514531c6
+      internalID: 1649732950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_64
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 771
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7dd6459f62b3441b2c7696e9e67b0d
+      internalID: -1132025401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_65
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 772
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862e1e9550533a44e99c7787c12d9d66
+      internalID: 1650024727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_66
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 771
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42967ef7762815247995f9f872c9e675
+      internalID: -1130334681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_67
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 770
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee9cfd348b4f68458bb68ab45e425d3
+      internalID: 1820116525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_68
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 771
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484cf80bb91d52e4a9c990248261ef0b
+      internalID: 1541944973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_69
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 707
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a726bd544c5933145b76ddec6cf79621
+      internalID: 35730697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_70
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 707
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31a97a0e63eb0b4db31d59551a62ee9
+      internalID: 1502688299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_71
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 708
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90a666d3dd2f5249bfd11bc6f4effb7
+      internalID: 1909980532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_72
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 708
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3edb73bc8c6c9954a8cfbbb9b4feedd2
+      internalID: -2025106626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_73
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 707
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26aa843371700c2428995e2f588bca99
+      internalID: -1428548214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_74
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 707
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27fb1193e1c99b45a70ba933a9d811e
+      internalID: 1478051691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_75
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 707
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694e6262b12a2e54eb8d9618caa960f7
+      internalID: -1967555105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_76
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 707
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1eb1bc15840854f9e6365712145636
+      internalID: 1609662204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_77
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 707
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42286630f182dc6459cbebeba3afd661
+      internalID: -566073176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_78
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 643
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34fa307a9a905f44ea90ffb6181e74f4
+      internalID: -446068743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_79
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 643
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cdff5ec80a1fa6458c01c23112a5bb9
+      internalID: 2141153499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_80
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 642
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5987d585d146a5240998ee869888c002
+      internalID: 987963925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_81
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 642
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c9c6b8f493e5e469ee1e145725fb48
+      internalID: 1338793154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_82
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 642
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16ad189fa5c5754eb4dbb4fbddc12d9
+      internalID: -1652793484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_83
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 643
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5e305a2f30e4c468ad5cc89e6026e7
+      internalID: -726826000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_84
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 642
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6930ba0056e49d4591542bd54827954
+      internalID: 1371888171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_85
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 642
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047061dd34a013f459de7d8f58edc836
+      internalID: 1395822607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_86
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 642
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c8fd5601f6c0a41a91e87d9241ad4f
+      internalID: 169587289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_87
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 579
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da908476cff4064ca74388a3865fa10
+      internalID: -855358302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_88
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 579
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef6e688895dcb94983d0cab49948456
+      internalID: -1668206647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_89
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 580
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc10ebfa84a3e243ab0688f4be6a4c1
+      internalID: -578981928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_90
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 580
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbbe12edc7d413742a4d6f24dbe4c10c
+      internalID: 1529909500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_91
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 579
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca64c4e3e490b134584b2d792453ba25
+      internalID: 520721473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_92
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 579
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a268a31655d8c6544adafefe5e91c860
+      internalID: -1853709818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_93
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 579
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4f16f189320d142ac236b14dbd068a
+      internalID: -1002783589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_94
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 579
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71dec5bd56986af428dbea56066b1b20
+      internalID: 1781974276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_95
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 579
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8be431866c4374392bc1e10c70be5a
+      internalID: 1783804516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_96
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 514
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358a5f8e3a46bd74594fedb751b14846
+      internalID: -939059000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_97
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 513
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281428f555d9b70488ad7c5ded2d0ed8
+      internalID: -964490415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_98
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 513
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28b82f359877d642877aad0828d9bcd
+      internalID: -608751351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_99
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 513
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269f492045a35474fa6cc299e6c2d4e3
+      internalID: 767662283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_100
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 513
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0d0ebb31881b94d967d00c91fdc68e
+      internalID: -2144579909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_101
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 513
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861903c869ee2c2479a9bee45b62b0d3
+      internalID: 1364322472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_102
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 450
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32be4956ac5cbc2469c14832812fb1fa
+      internalID: 1766473131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_103
       rect:
         serializedVersion: 2
         x: 81
         y: 450
-        width: 29
-        height: 47
+        width: 25
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2282,20 +2282,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8cd8eacd818f70b4399a523b174c3039
-      internalID: -1258809226
+      spriteID: 9bfaa5603ead02143b1d7be7bf1fe58f
+      internalID: 864902306
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_104
+      name: Skeleton Sprites_104
       rect:
         serializedVersion: 2
-        x: 147
+        x: 148
         y: 450
-        width: 27
-        height: 49
+        width: 24
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2303,20 +2303,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 12ab18624b451654485d7a50ff62b38a
-      internalID: -661899086
+      spriteID: b8f24e48ea8d2fe4cb9001b56ad80861
+      internalID: -1415104133
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_105
+      name: Skeleton Sprites_105
       rect:
         serializedVersion: 2
-        x: 204
+        x: 203
         y: 450
-        width: 33
-        height: 49
+        width: 34
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2324,124 +2324,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1833fa3cbc61cc045b92eb3f6878acf7
-      internalID: 268888441
+      spriteID: 000704d0a3e2fb049af528f55b13277c
+      internalID: -586433366
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_106
+      name: Skeleton Sprites_106
       rect:
         serializedVersion: 2
         x: 264
         y: 450
         width: 36
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 65826c4572de5754bb87e924b85ee3bd
-      internalID: 1732956173
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_107
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 450
-        width: 32
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d961a80db304ffe41bc33af3c96e648c
-      internalID: 943520243
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_108
-      rect:
-        serializedVersion: 2
-        x: 15
-        y: 386
-        width: 31
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4ec73b287af68264395980f3c8501051
-      internalID: -680239816
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_109
-      rect:
-        serializedVersion: 2
-        x: 79
-        y: 386
-        width: 31
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 73f582fbbf761534e84d59560328c6e0
-      internalID: -956375978
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_110
-      rect:
-        serializedVersion: 2
-        x: 142
-        y: 386
-        width: 31
-        height: 47
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c120f9179fc378348abec79871a3adae
-      internalID: 496755698
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_111
-      rect:
-        serializedVersion: 2
-        x: 209
-        y: 386
-        width: 31
         height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -2450,20 +2345,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9940773ff92b2e6449590fdbc3d3dcc1
-      internalID: -12859662
+      spriteID: 98136f94854d2544a859a25c382c3e4d
+      internalID: -215638940
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_112
+      name: Skeleton Sprites_107
       rect:
         serializedVersion: 2
-        x: 274
+        x: 331
+        y: 450
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fefcc1f56eaedb4ba40a37682cf6265
+      internalID: 1010904524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_108
+      rect:
+        serializedVersion: 2
+        x: 17
         y: 386
-        width: 37
-        height: 49
+        width: 30
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2471,20 +2387,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 780938170b9d3174e8c84b02eb9676b5
-      internalID: 1463364947
+      spriteID: b54b0894468bbd443a584585b8d9b16a
+      internalID: -1847429913
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_113
+      name: Skeleton Sprites_109
       rect:
         serializedVersion: 2
-        x: 338
+        x: 83
         y: 386
-        width: 40
-        height: 49
+        width: 26
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2492,20 +2408,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 855ec6471d2d3a74dbc3a0c444a3385e
-      internalID: -896330804
+      spriteID: d0d78362a1b45f94fbfa673b236a93ee
+      internalID: -233682758
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_114
+      name: Skeleton Sprites_110
       rect:
         serializedVersion: 2
-        x: 16
-        y: 322
-        width: 27
-        height: 49
+        x: 147
+        y: 386
+        width: 26
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2513,19 +2429,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3ef86d34fac35ad4a83dd7fe1a2091ca
-      internalID: -1742015045
+      spriteID: f8bbdc19be90e6d449a50adca280ae9c
+      internalID: 1232095942
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_115
+      name: Skeleton Sprites_111
       rect:
         serializedVersion: 2
-        x: 82
-        y: 322
-        width: 29
+        x: 212
+        y: 386
+        width: 26
         height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -2534,20 +2450,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a8fe6163068b7684eb3cb7845849854d
-      internalID: 817787121
+      spriteID: d26445bcd2a4a5349916151d1741adcc
+      internalID: -1315194024
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_116
+      name: Skeleton Sprites_112
       rect:
         serializedVersion: 2
-        x: 146
-        y: 322
-        width: 27
-        height: 49
+        x: 276
+        y: 386
+        width: 35
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2555,20 +2471,104 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 54e6d33dcf0728e43ab233f3367a70c1
-      internalID: -65257775
+      spriteID: b3ac2a04de5c2554480748a319be6a07
+      internalID: -1217759097
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_117
+      name: Skeleton Sprites_113
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 386
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330cbe1d14d652148b1f89cf6095f092
+      internalID: 1315357608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_114
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 322
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1364f0dc53dc2140960d429965ecec7
+      internalID: 1796553993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_115
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 322
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd037cef64beda469287440fefdbf98
+      internalID: -382153558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_116
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 322
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b362ae496989f4581d321dd66ad0d8
+      internalID: 1201449122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_117
       rect:
         serializedVersion: 2
         x: 211
         y: 322
-        width: 33
-        height: 49
+        width: 34
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2576,20 +2576,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5c71222ad0cbf4e498b2283125813e05
-      internalID: -1880078013
+      spriteID: 1a92561905e735b43897d4a8ca288f93
+      internalID: -431088194
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_118
+      name: Skeleton Sprites_118
       rect:
         serializedVersion: 2
         x: 276
         y: 322
         width: 36
-        height: 49
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2597,20 +2597,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4f5deeeb6d03718438b390cf9bc6e3d7
-      internalID: 41251020
+      spriteID: 4b7d3fdbe46e45a408a061e6a478675b
+      internalID: 1744695088
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_119
+      name: Skeleton Sprites_119
       rect:
         serializedVersion: 2
         x: 340
         y: 322
-        width: 32
-        height: 49
+        width: 33
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2618,19 +2618,40 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f108001ac2b2eae46ad7d2b2e4993217
-      internalID: -896163617
+      spriteID: a0b395ba196ba6e4abfaa90dc4d5a048
+      internalID: 753701541
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_120
+      name: Skeleton Sprites_120
       rect:
         serializedVersion: 2
-        x: 14
+        x: 16
         y: 258
-        width: 35
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6916838b0a0c54245be47b500a98dbc7
+      internalID: -508223657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_121
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 256
+        width: 26
         height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -2639,271 +2660,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eba543f152cd7ec468f4bcb309471bb6
-      internalID: 746077501
+      spriteID: 5e68265ab3680a74594820a25a785395
+      internalID: 286537790
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_121
+      name: Skeleton Sprites_122
       rect:
         serializedVersion: 2
-        x: 78
-        y: 257
-        width: 35
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d14b306c491392e42bd29e7acb5957d4
-      internalID: -1166133949
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_122
-      rect:
-        serializedVersion: 2
-        x: 143
+        x: 150
         y: 256
-        width: 35
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 087870d3699508d4cab44319b315dd8f
-      internalID: 1722155057
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_123
-      rect:
-        serializedVersion: 2
-        x: 206
-        y: 256
-        width: 35
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 507410a3064dfb24bafb63b93cce8215
-      internalID: 738385293
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_124
-      rect:
-        serializedVersion: 2
-        x: 270
-        y: 256
-        width: 35
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9e92cfbcfb19e1340a4bc969aaf38919
-      internalID: 33551600
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_125
-      rect:
-        serializedVersion: 2
-        x: 334
-        y: 256
-        width: 35
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ce7caee3a0bd4de42a3344344ce14a84
-      internalID: 915844840
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_126
-      rect:
-        serializedVersion: 2
-        x: 398
-        y: 256
-        width: 35
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 778f8a35dd356f94485164b75479ffd6
-      internalID: -1988091817
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_127
-      rect:
-        serializedVersion: 2
-        x: 462
-        y: 256
-        width: 35
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c8423080bbc10bd4582103c8a9113c10
-      internalID: 1714740732
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_128
-      rect:
-        serializedVersion: 2
-        x: 526
-        y: 256
-        width: 35
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2e7a5929e6bcdac40b48516bb446269d
-      internalID: -342219665
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_129
-      rect:
-        serializedVersion: 2
-        x: 590
-        y: 256
-        width: 35
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 25d19f84b08b11b42a50ef7dbab68e53
-      internalID: -897830808
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_130
-      rect:
-        serializedVersion: 2
-        x: 654
-        y: 256
-        width: 35
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 580fcdac09d13e2408b578ab75ac5206
-      internalID: -298251986
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_131
-      rect:
-        serializedVersion: 2
-        x: 718
-        y: 256
-        width: 35
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 40ea2c6313b3567458b46af288f3d8e4
-      internalID: -940482052
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_132
-      rect:
-        serializedVersion: 2
-        x: 782
-        y: 256
-        width: 35
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 530668ce5a300bb4f9211782aa28a696
-      internalID: 332716917
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_133
-      rect:
-        serializedVersion: 2
-        x: 22
-        y: 194
-        width: 27
+        width: 21
         height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -2912,20 +2681,251 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5a0cb32e1a4f5dd4594484c89160f2f8
-      internalID: 1145687624
+      spriteID: 623359c59befd32489d18bb2022d030c
+      internalID: 1989919863
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_134
+      name: Skeleton Sprites_123
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 256
+        width: 21
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb394b31f72f6b84fb1cd32a5c58084a
+      internalID: -1171495369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_124
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 256
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a982b220d8be534c9deca46b4e72148
+      internalID: -110319268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_125
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 256
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8bd0fbfbda938408eb2e0a88977261
+      internalID: 1113819139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_126
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 256
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebd4f1eda9998244bf72ed2d148c61b
+      internalID: -1226443713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_127
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 256
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8bb5f6d9f71e694bae02c6032a773e8
+      internalID: -288819033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_128
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 256
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af8bf21ab137314f8701a72e47e0f3a
+      internalID: 791723019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_129
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 256
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258681e97d370a944b7c0b6a46de9747
+      internalID: -1867926547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_130
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 256
+        width: 21
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d688cafabd1c7f142afd2ad64cfdd4cd
+      internalID: 1517081004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_131
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 256
+        width: 21
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19b83a67fa452349a88f26e58f30144
+      internalID: -1632573907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_132
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 256
+        width: 21
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615f45febb907f6428f814dd8dfe1fee
+      internalID: -176672673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_133
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 194
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4bfaade78688394da87b231d9db5cf3
+      internalID: -577053854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_134
       rect:
         serializedVersion: 2
         x: 84
         y: 194
-        width: 29
-        height: 49
+        width: 24
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2933,20 +2933,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a22260f9057b9764ca79dc6548aca8ae
-      internalID: -305612886
+      spriteID: 942af2a2600d10346a0509111d5a949f
+      internalID: -1545241172
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_135
+      name: Skeleton Sprites_135
       rect:
         serializedVersion: 2
         x: 143
         y: 194
-        width: 34
-        height: 49
+        width: 32
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2954,20 +2954,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 29e65fa5727f44342ae1026c4b645e52
-      internalID: -967686021
+      spriteID: f330795ac698d3240b5071ba0367f507
+      internalID: 1843680951
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_136
+      name: Skeleton Sprites_136
       rect:
         serializedVersion: 2
         x: 205
         y: 194
-        width: 36
-        height: 49
+        width: 33
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2975,20 +2975,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 90abea116f7cdfc4aa6c82db8faf4f3e
-      internalID: -1797907247
+      spriteID: 57eb657faf4ae7b4195c6bce4265271f
+      internalID: 1472505762
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_137
+      name: Skeleton Sprites_137
       rect:
         serializedVersion: 2
         x: 269
         y: 194
-        width: 36
-        height: 49
+        width: 35
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2996,20 +2996,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 79d4da46431de6348a73d266fea05c3b
-      internalID: 1943236624
+      spriteID: b09cf3d1baece6e4b99409307ae9583d
+      internalID: -1872577884
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_138
+      name: Skeleton Sprites_138
       rect:
         serializedVersion: 2
         x: 332
         y: 194
-        width: 37
-        height: 49
+        width: 32
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3017,20 +3017,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: acefa8ecb9ed4f745a1bdcba2dd4cc4a
-      internalID: -1736695694
+      spriteID: 73c92a8d8b46e6e4cb567f066ae76fa7
+      internalID: -2007150775
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_139
+      name: Skeleton Sprites_139
       rect:
         serializedVersion: 2
         x: 396
         y: 194
-        width: 37
-        height: 49
+        width: 34
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3038,187 +3038,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7296b6b7b7ab71e4d9876903182c6afc
-      internalID: -2078991112
+      spriteID: 53eadcecddb38b64bad7cebc3c0c710c
+      internalID: 2067860264
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_140
+      name: Skeleton Sprites_140
       rect:
         serializedVersion: 2
         x: 461
         y: 194
         width: 36
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: db9458b19fb4ac94b9f462843ff1d91b
-      internalID: -256667700
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_141
-      rect:
-        serializedVersion: 2
-        x: 525
-        y: 194
-        width: 38
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 13d6b3372b5f07b4dbfacc81cd1811de
-      internalID: 1634257402
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_142
-      rect:
-        serializedVersion: 2
-        x: 589
-        y: 194
-        width: 36
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0e6afeee7fdb9e14b845e0678479a942
-      internalID: -1720754840
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_143
-      rect:
-        serializedVersion: 2
-        x: 653
-        y: 194
-        width: 36
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c4916aea39aba1d45be25a7b4e3bcf35
-      internalID: 1937351770
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_144
-      rect:
-        serializedVersion: 2
-        x: 717
-        y: 194
-        width: 36
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5d6e0882dbc475b45a4a8339751a716e
-      internalID: 1555241554
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_145
-      rect:
-        serializedVersion: 2
-        x: 781
-        y: 194
-        width: 36
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c4ee875da04351b4a97457e96464f70c
-      internalID: 625444914
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_146
-      rect:
-        serializedVersion: 2
-        x: 14
-        y: 130
-        width: 31
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bfee63b32fd97184b9fa17eb30e2c983
-      internalID: 536914633
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_147
-      rect:
-        serializedVersion: 2
-        x: 78
-        y: 129
-        width: 31
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e466e4547a063d141bfc18ddf27a987e
-      internalID: -1075503341
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_148
-      rect:
-        serializedVersion: 2
-        x: 142
-        y: 131
-        width: 31
         height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -3227,20 +3059,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b3675b10437ecc24b9ed25304383a727
-      internalID: -490994448
+      spriteID: fa5e4720ef87cd847a58f95bf2bdba8b
+      internalID: 800392553
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_149
+      name: Skeleton Sprites_141
       rect:
         serializedVersion: 2
-        x: 206
-        y: 130
-        width: 31
-        height: 49
+        x: 525
+        y: 194
+        width: 38
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3248,20 +3080,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 16cd593aaef68c049aac0425e5be4bf6
-      internalID: 1790962708
+      spriteID: c840be8d6b2e7d94f8771d1622db829c
+      internalID: -1858386965
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_150
+      name: Skeleton Sprites_142
       rect:
         serializedVersion: 2
-        x: 270
-        y: 130
-        width: 31
-        height: 49
+        x: 589
+        y: 194
+        width: 35
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3269,20 +3101,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 758c63b6861d9194dbc48409f54848c5
-      internalID: 1480768653
+      spriteID: 6c6bdd403419e4143ab663179cf13e31
+      internalID: 31513227
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_151
+      name: Skeleton Sprites_143
       rect:
         serializedVersion: 2
-        x: 334
-        y: 130
-        width: 31
-        height: 49
+        x: 653
+        y: 194
+        width: 33
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3290,20 +3122,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bc9098909bc7d434e98a6d79d009e5ec
-      internalID: 1808565741
+      spriteID: 528a70e9dc6fb7342949e82b975f6489
+      internalID: -1833344721
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_152
+      name: Skeleton Sprites_144
       rect:
         serializedVersion: 2
-        x: 398
-        y: 130
-        width: 31
-        height: 49
+        x: 717
+        y: 194
+        width: 30
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3311,20 +3143,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 787842f6fd5d8bb439e193f1b0ee99a2
-      internalID: 1257648496
+      spriteID: 35a9cf84778e30c4fab0ed4c9d622d17
+      internalID: 17357562
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_153
+      name: Skeleton Sprites_145
       rect:
         serializedVersion: 2
-        x: 462
-        y: 130
-        width: 31
-        height: 49
+        x: 781
+        y: 194
+        width: 33
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3332,20 +3164,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ab6d69d7a8467a64c98a3383fcf32c17
-      internalID: -668497925
+      spriteID: e220c77328edd6e47888be26ad6c7edc
+      internalID: -1677264835
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_154
+      name: Skeleton Sprites_146
       rect:
         serializedVersion: 2
-        x: 526
+        x: 16
         y: 130
-        width: 31
-        height: 49
+        width: 30
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3353,20 +3185,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1a8934fbf7f29e44999314a004f905d5
-      internalID: -594114985
+      spriteID: 95a080a84c7a2d54093f678049f03a5d
+      internalID: 1941595181
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_155
+      name: Skeleton Sprites_147
       rect:
         serializedVersion: 2
-        x: 590
-        y: 130
-        width: 31
-        height: 49
+        x: 82
+        y: 131
+        width: 25
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3374,20 +3206,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 55b0702f411e1ad47b46fb78f82f32c6
-      internalID: 471252273
+      spriteID: de9f8a370f64b864ca4f69ad0b8d45be
+      internalID: 597963333
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_156
+      name: Skeleton Sprites_148
       rect:
         serializedVersion: 2
-        x: 654
-        y: 130
-        width: 31
-        height: 49
+        x: 146
+        y: 131
+        width: 24
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3395,20 +3227,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d3631f946ed37ea4a8a67aafe2d01995
-      internalID: 715003787
+      spriteID: fff60c574db3d9d418bf13fd4f83c530
+      internalID: 1604435398
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_157
+      name: Skeleton Sprites_149
       rect:
         serializedVersion: 2
-        x: 718
+        x: 210
         y: 130
-        width: 31
-        height: 49
+        width: 23
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3416,20 +3248,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5aa421ffdd0c9444887e22136c5865a4
-      internalID: 1171878002
+      spriteID: 1b7c8150362d68c419952643721e4a8e
+      internalID: -423830900
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_158
+      name: Skeleton Sprites_150
       rect:
         serializedVersion: 2
-        x: 782
+        x: 275
         y: 130
-        width: 31
-        height: 49
+        width: 22
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3437,20 +3269,188 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 80f79970f1d00f34697371ed3e3ebc61
-      internalID: -476070374
+      spriteID: dff01a49ba27e13468d0052c39d30df9
+      internalID: 1425138895
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_159
+      name: Skeleton Sprites_151
       rect:
         serializedVersion: 2
-        x: 15
+        x: 340
+        y: 130
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a69fefd923ea354a9d79398a6e5c2c8
+      internalID: 1747021372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_152
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 130
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b8bafd977f9834397e90bdbc691fdb
+      internalID: -1350438548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_153
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 130
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9572a037bad52964692681d12ca71376
+      internalID: -736500606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_154
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 130
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16093f536a4cba41a1c1592d2f42754
+      internalID: -1690760582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_155
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 130
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54583441ea782524e80339845a49b455
+      internalID: -2127744724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_156
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 130
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3621d8bffe9059247acdebcdbaf4a876
+      internalID: -1011602936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_157
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 130
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04d0a225a35b7b469e9176c389383fd
+      internalID: -756199314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_158
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 130
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb01b2a96f9c7449ade097b2e950776
+      internalID: -1539968398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_159
+      rect:
+        serializedVersion: 2
+        x: 20
         y: 66
-        width: 27
-        height: 49
+        width: 20
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3458,20 +3458,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e4ba66339beb0034483ea2913d3d3db6
-      internalID: -1222712056
+      spriteID: 9edfc3b4a2333494791da619cb176b31
+      internalID: 51698344
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_160
+      name: Skeleton Sprites_160
       rect:
         serializedVersion: 2
-        x: 79
+        x: 84
         y: 66
-        width: 29
-        height: 49
+        width: 24
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3479,20 +3479,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a96950c45b6bfbb4a98918b9df7b3d76
-      internalID: -1146904624
+      spriteID: 1270bd200402529458a43f93bae03dd7
+      internalID: 1877836983
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_161
+      name: Skeleton Sprites_161
       rect:
         serializedVersion: 2
-        x: 143
+        x: 145
+        y: 66
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10e5882e1aacce409eae86185946aef
+      internalID: 1521339361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_162
+      rect:
+        serializedVersion: 2
+        x: 209
         y: 66
         width: 34
-        height: 49
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3500,20 +3521,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d5183dc29477e204094d691b3c8aeb16
-      internalID: 1236138083
+      spriteID: e43fdc6b76bf08e48acd16d03efc8f52
+      internalID: 484336274
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_162
+      name: Skeleton Sprites_163
       rect:
         serializedVersion: 2
-        x: 207
+        x: 272
         y: 66
-        width: 36
-        height: 49
+        width: 35
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3521,20 +3542,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8728f281efe2e0142a82fd325ffaf4db
-      internalID: 804722537
+      spriteID: 1e7215d778dba974c911529ee129d806
+      internalID: -563566856
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_163
+      name: Skeleton Sprites_164
       rect:
         serializedVersion: 2
-        x: 271
+        x: 340
         y: 66
-        width: 36
-        height: 49
+        width: 32
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3542,20 +3563,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 56c4d29419544d645a266914b96d3224
-      internalID: 1137410506
+      spriteID: a0be39d24b7dedc43b9203ae694030a5
+      internalID: 1363469759
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_164
+      name: Skeleton Sprites_165
       rect:
         serializedVersion: 2
-        x: 335
+        x: 402
         y: 66
-        width: 37
-        height: 49
+        width: 34
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3563,41 +3584,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7321bcd94ddd2e04ea4c37b283753443
-      internalID: 315741601
+      spriteID: 0c0e0709c3127544192e51b382290ea4
+      internalID: -1019339247
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_165
-      rect:
-        serializedVersion: 2
-        x: 399
-        y: 66
-        width: 37
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7d1b532d4cf7b394088d67fe54e38077
-      internalID: 156280386
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_166
+      name: Skeleton Sprites_166
       rect:
         serializedVersion: 2
         x: 463
         y: 66
         width: 36
-        height: 49
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3605,20 +3605,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e443fa93b8eb1d445a60f2e136cf4902
-      internalID: -1363876561
+      spriteID: c316d996e0b16624e96d7d36fca1893d
+      internalID: -2090053509
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_167
+      name: Skeleton Sprites_167
       rect:
         serializedVersion: 2
         x: 525
         y: 66
         width: 38
-        height: 49
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3626,20 +3626,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bffba83ee00794946b34c3e6068b29d1
-      internalID: -1451992017
+      spriteID: 0d85fcebb4066504aa6e3608c0b11719
+      internalID: 292053565
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_168
+      name: Skeleton Sprites_168
       rect:
         serializedVersion: 2
-        x: 591
+        x: 592
         y: 66
-        width: 36
-        height: 49
+        width: 35
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3647,20 +3647,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5a82d1971e0b16b48a01601388066fb0
-      internalID: 582271744
+      spriteID: 5626ec92ad8f36d4b8c2cdeb089bab60
+      internalID: 1941492004
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_169
+      name: Skeleton Sprites_169
       rect:
         serializedVersion: 2
-        x: 655
+        x: 658
         y: 66
-        width: 36
-        height: 49
+        width: 33
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3668,20 +3668,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ff86f828de5cf0941b7afcec4a8f7193
-      internalID: -1345468561
+      spriteID: 00e5c584a2864b74c83aa9b1ce76c2f2
+      internalID: 49370682
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_170
+      name: Skeleton Sprites_170
       rect:
         serializedVersion: 2
-        x: 719
+        x: 725
         y: 66
-        width: 36
-        height: 49
+        width: 30
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3689,20 +3689,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fdf1bce1d1968e543835b02212e0c452
-      internalID: -1831322416
+      spriteID: 8e3fd5838e8a92c43b08b615235a9475
+      internalID: -2032270011
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_171
+      name: Skeleton Sprites_171
       rect:
         serializedVersion: 2
-        x: 783
+        x: 786
         y: 66
-        width: 36
-        height: 49
+        width: 33
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3710,20 +3710,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8c0915bff42bee6419442fcf41c1cabc
-      internalID: 953221174
+      spriteID: 9857335eff2fa7a4bbfa248dfb255d5c
+      internalID: 404915802
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_172
+      name: Skeleton Sprites_172
       rect:
         serializedVersion: 2
-        x: 14
+        x: 17
         y: 2
-        width: 32
-        height: 50
+        width: 30
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3731,41 +3731,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2ad5fccf42c1eff4199ae6d97d7d2b2a
-      internalID: 1709072764
+      spriteID: b3f6e495a2dc4ef4aa4b0dd085864d1c
+      internalID: -1373176601
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_173
+      name: Skeleton Sprites_173
       rect:
         serializedVersion: 2
-        x: 80
-        y: 2
-        width: 32
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3208af77d7bf12d4a8a977475214b968
-      internalID: -419204291
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_174
-      rect:
-        serializedVersion: 2
-        x: 144
+        x: 82
         y: 2
         width: 31
-        height: 42
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3773,20 +3752,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2b0e28cfcc1dc5c4a9e35044df341e12
-      internalID: -430881671
+      spriteID: d98b7dd73d2115f4c98da801041b9fc2
+      internalID: 1187485030
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_175
+      name: Skeleton Sprites_174
       rect:
         serializedVersion: 2
-        x: 208
+        x: 147
         y: 2
-        width: 32
-        height: 38
+        width: 31
+        height: 40
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3794,40 +3773,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e9c521abe9be5cc4fa0500c6fc5bd581
-      internalID: 1906755940
+      spriteID: 822762d62157a5946aacdea6412aed72
+      internalID: 734849904
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: roka_176
+      name: Skeleton Sprites_175
       rect:
         serializedVersion: 2
-        x: 268
-        y: 0
-        width: 37
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2cc673b312963614aad667eba41dfef5
-      internalID: -867906725
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: roka_177
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 1
-        width: 40
+        x: 211
+        y: 3
+        width: 30
         height: 35
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -3836,8 +3794,50 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2327623d0bf6036458eb15be1023f8de
-      internalID: 663914890
+      spriteID: 8a3ede141694ec549abc7e259a9db713
+      internalID: 1581397861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_176
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 3
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29b8305d74357e4f976c215d6ceda30
+      internalID: -1337112024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Sprites_177
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1131ef781ecd4894a9b980f12dd63a33
+      internalID: -1906204468
       vertices: []
       indices: 
       edges: []
@@ -3853,184 +3853,184 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      roka_109: -956375978
-      roka_148: -490994448
-      roka_12: 857248100
-      roka_101: 159440014
-      roka_87: -370650413
-      roka_39: -1863249929
-      roka_65: 761329696
-      roka_169: -1345468561
-      roka_151: 1808565741
-      roka_50: 986768473
-      roka_79: -1674279602
-      roka_161: 1236138083
-      roka_21: 774090653
-      roka_137: 1943236624
-      roka_114: -1742015045
-      roka_51: 63247517
-      roka_26: 1489871716
-      roka_24: -1485090678
-      roka_154: -594114985
-      roka_82: -2079219589
-      roka_165: 156280386
-      roka_106: 1732956173
-      roka_138: -1736695694
-      roka_153: -668497925
-      roka_130: -298251986
-      roka_173: -419204291
-      roka_175: 1906755940
-      roka_43: 1842474373
-      roka_69: 75143336
-      roka_1: -1553987772
-      roka_146: 536914633
-      roka_75: 1440518540
-      roka_29: 216041535
-      roka_143: 1937351770
-      roka_30: 1469038375
-      roka_32: -1731080692
-      roka_172: 1709072764
-      roka_34: 182979196
-      roka_31: 1915565629
-      roka_15: -406981970
-      roka_99: -586073883
-      roka_162: 804722537
-      roka_156: 715003787
-      roka_38: 1110729199
-      roka_95: -90230476
-      roka_13: -856218082
-      roka_27: 1120542688
-      roka_85: 2037323773
-      roka_55: 1912324746
-      roka_159: -1222712056
-      roka_149: 1790962708
-      roka_4: -1055138922
-      roka_139: -2078991112
-      roka_174: -430881671
-      roka_105: 268888441
-      roka_119: -896163617
-      roka_176: -867906725
-      roka_25: -2110037853
-      roka_117: -1880078013
-      roka_53: 1215253814
-      roka_118: 41251020
-      roka_166: -1363876561
-      roka_92: -1983675623
-      roka_41: 67676774
-      roka_80: -1786198826
-      roka_73: -1663758296
-      roka_150: 1480768653
-      roka_71: -516478864
-      roka_5: -536559180
-      roka_121: -1166133949
-      roka_142: -1720754840
-      roka_76: 135761655
-      roka_2: -110973693
-      roka_157: 1171878002
-      roka_127: 1714740732
-      roka_144: 1555241554
-      roka_112: 1463364947
-      roka_110: 496755698
-      roka_103: -1258809226
-      roka_58: -1005185699
-      roka_63: 1715599547
-      roka_3: -516647247
-      roka_54: -710238823
-      roka_91: 251286380
-      roka_98: 1537504338
-      roka_72: 2047933894
-      roka_42: 647429684
-      roka_66: -387349089
-      roka_17: 628574340
-      roka_6: 422871144
-      roka_128: -342219665
-      roka_152: 1257648496
-      roka_164: 315741601
-      roka_134: -305612886
-      roka_67: -1689012370
-      roka_45: -1867020253
-      roka_11: -712586204
-      roka_74: -1380403205
-      roka_83: -1709272038
-      roka_18: -141096528
-      roka_136: -1797907247
-      roka_60: 1322980195
-      roka_170: -1831322416
-      roka_96: 923735986
-      roka_22: -257580310
-      roka_40: 877579612
-      roka_57: -1239305496
-      roka_97: 325515247
-      roka_158: -476070374
-      roka_9: -460692306
-      roka_14: -1288997021
-      roka_88: -1352385657
-      roka_129: -897830808
-      roka_147: -1075503341
-      roka_7: 1180383337
-      roka_113: -896330804
-      roka_8: 1955329924
-      roka_141: 1634257402
-      roka_115: 817787121
-      roka_131: -940482052
-      roka_86: -1882305661
-      roka_23: -1258931391
-      roka_48: -971522396
-      roka_61: 139327471
-      roka_155: 471252273
-      roka_167: -1451992017
-      roka_124: 33551600
-      roka_116: -65257775
-      roka_62: 1420953765
-      roka_37: -1777257994
-      roka_78: 1539424699
-      roka_168: 582271744
-      roka_46: -1984579829
-      roka_16: 1454573188
-      roka_171: 953221174
-      roka_107: 943520243
-      roka_10: -42069937
-      roka_0: 463468730
-      roka_19: -618657347
-      roka_163: 1137410506
-      roka_123: 738385293
-      roka_125: 915844840
-      roka_90: -143634420
-      roka_94: 824889244
-      roka_77: 922115763
-      roka_49: -366234711
-      roka_33: 2075476891
-      roka_140: -256667700
-      roka_35: 495304558
-      roka_52: 1222363505
-      roka_89: -1574779970
-      roka_108: -680239816
-      roka_133: 1145687624
-      roka_93: 1228978524
-      roka_126: -1988091817
-      roka_36: -429856858
-      roka_44: -1370818531
-      roka_177: 663914890
-      roka_84: -749958280
-      roka_20: 817472747
-      roka_81: 856169441
-      roka_28: -1612117072
-      roka_120: 746077501
-      roka_47: 515553149
-      roka_56: -676987611
-      roka_64: -1653351346
-      roka_68: -252969466
-      roka_104: -661899086
-      roka_132: 332716917
-      roka_102: 1973080297
-      roka_160: -1146904624
-      roka_59: 207264128
-      roka_70: -1417629562
-      roka_135: -967686021
-      roka_100: -1976363142
-      roka_111: -12859662
-      roka_145: 625444914
-      roka_122: 1722155057
+      Skeleton Sprites_108: -1847429913
+      Skeleton Sprites_124: -110319268
+      Skeleton Sprites_118: 1744695088
+      Skeleton Sprites_3: -1738882516
+      Skeleton Sprites_19: -611475532
+      Skeleton Sprites_20: -555185406
+      Skeleton Sprites_59: -475990561
+      Skeleton Sprites_9: -1653291252
+      Skeleton Sprites_85: 1395822607
+      Skeleton Sprites_106: -215638940
+      Skeleton Sprites_55: -125851970
+      Skeleton Sprites_175: 1581397861
+      Skeleton Sprites_86: 169587289
+      Skeleton Sprites_52: 1237615734
+      Skeleton Sprites_129: -1867926547
+      Skeleton Sprites_139: 2067860264
+      Skeleton Sprites_93: -1002783589
+      Skeleton Sprites_21: 117600961
+      Skeleton Sprites_10: -1669929812
+      Skeleton Sprites_101: 1364322472
+      Skeleton Sprites_162: 484336274
+      Skeleton Sprites_156: -1011602936
+      Skeleton Sprites_84: 1371888171
+      Skeleton Sprites_26: -754978447
+      Skeleton Sprites_107: 1010904524
+      Skeleton Sprites_17: 1470820332
+      Skeleton Sprites_2: 1729339212
+      Skeleton Sprites_92: -1853709818
+      Skeleton Sprites_113: 1315357608
+      Skeleton Sprites_132: -176672673
+      Skeleton Sprites_22: -1862523522
+      Skeleton Sprites_63: 1649732950
+      Skeleton Sprites_95: 1783804516
+      Skeleton Sprites_141: -1858386965
+      Skeleton Sprites_136: 1472505762
+      Skeleton Sprites_49: -895184235
+      Skeleton Sprites_81: 1338793154
+      Skeleton Sprites_38: -2051992015
+      Skeleton Sprites_40: 1133524307
+      Skeleton Sprites_167: 292053565
+      Skeleton Sprites_44: -1526288282
+      Skeleton Sprites_4: 1778156744
+      Skeleton Sprites_60: -760463281
+      Skeleton Sprites_90: 1529909500
+      Skeleton Sprites_174: 734849904
+      Skeleton Sprites_154: -1690760582
+      Skeleton Sprites_130: 1517081004
+      Skeleton Sprites_109: -233682758
+      Skeleton Sprites_45: 442758029
+      Skeleton Sprites_153: -736500606
+      Skeleton Sprites_103: 864902306
+      Skeleton Sprites_104: -1415104133
+      Skeleton Sprites_57: -773318660
+      Skeleton Sprites_66: -1130334681
+      Skeleton Sprites_112: -1217759097
+      Skeleton Sprites_160: 1877836983
+      Skeleton Sprites_53: -1082817883
+      Skeleton Sprites_15: 86056822
+      Skeleton Sprites_143: -1833344721
+      Skeleton Sprites_82: -1652793484
+      Skeleton Sprites_29: -1934533264
+      Skeleton Sprites_165: -1019339247
+      Skeleton Sprites_50: -1105974363
+      Skeleton Sprites_163: -563566856
+      Skeleton Sprites_138: -2007150775
+      Skeleton Sprites_37: 275176398
+      Skeleton Sprites_32: -1992088380
+      Skeleton Sprites_65: 1650024727
+      Skeleton Sprites_96: -939059000
+      Skeleton Sprites_91: 520721473
+      Skeleton Sprites_35: 2085725578
+      Skeleton Sprites_28: 1724975110
+      Skeleton Sprites_123: -1171495369
+      Skeleton Sprites_172: -1373176601
+      Skeleton Sprites_97: -964490415
+      Skeleton Sprites_105: -586433366
+      Skeleton Sprites_119: 753701541
+      Skeleton Sprites_7: -1028400003
+      Skeleton Sprites_88: -1668206647
+      Skeleton Sprites_34: -1745375824
+      Skeleton Sprites_76: 1609662204
+      Skeleton Sprites_13: 799807996
+      Skeleton Sprites_145: -1677264835
+      Skeleton Sprites_27: 682854087
+      Skeleton Sprites_149: -423830900
+      Skeleton Sprites_114: 1796553993
+      Skeleton Sprites_41: -887761100
+      Skeleton Sprites_48: -1262118118
+      Skeleton Sprites_77: -566073176
+      Skeleton Sprites_71: 1909980532
+      Skeleton Sprites_75: -1967555105
+      Skeleton Sprites_137: -1872577884
+      Skeleton Sprites_147: 597963333
+      Skeleton Sprites_47: -1078311358
+      Skeleton Sprites_24: -950777227
+      Skeleton Sprites_58: -249239582
+      Skeleton Sprites_78: -446068743
+      Skeleton Sprites_128: 791723019
+      Skeleton Sprites_173: 1187485030
+      Skeleton Sprites_8: 32900044
+      Skeleton Sprites_46: 1462032379
+      Skeleton Sprites_151: 1747021372
+      Skeleton Sprites_131: -1632573907
+      Skeleton Sprites_177: -1906204468
+      Skeleton Sprites_16: 2021861498
+      Skeleton Sprites_161: 1521339361
+      Skeleton Sprites_43: -1402408353
+      Skeleton Sprites_157: -756199314
+      Skeleton Sprites_126: -1226443713
+      Skeleton Sprites_94: 1781974276
+      Skeleton Sprites_120: -508223657
+      Skeleton Sprites_142: 31513227
+      Skeleton Sprites_98: -608751351
+      Skeleton Sprites_111: -1315194024
+      Skeleton Sprites_135: 1843680951
+      Skeleton Sprites_83: -726826000
+      Skeleton Sprites_152: -1350438548
+      Skeleton Sprites_12: -971342877
+      Skeleton Sprites_159: 51698344
+      Skeleton Sprites_64: -1132025401
+      Skeleton Sprites_117: -431088194
+      Skeleton Sprites_73: -1428548214
+      Skeleton Sprites_79: 2141153499
+      Skeleton Sprites_140: 800392553
+      Skeleton Sprites_25: -1935673344
+      Skeleton Sprites_36: -2137585707
+      Skeleton Sprites_176: -1337112024
+      Skeleton Sprites_80: 987963925
+      Skeleton Sprites_87: -855358302
+      Skeleton Sprites_146: 1941595181
+      Skeleton Sprites_134: -1545241172
+      Skeleton Sprites_6: -1446616423
+      Skeleton Sprites_0: 196744839
+      Skeleton Sprites_168: 1941492004
+      Skeleton Sprites_100: -2144579909
+      Skeleton Sprites_115: -382153558
+      Skeleton Sprites_116: 1201449122
+      Skeleton Sprites_133: -577053854
+      Skeleton Sprites_5: -1906270019
+      Skeleton Sprites_164: 1363469759
+      Skeleton Sprites_148: 1604435398
+      Skeleton Sprites_54: -1690926640
+      Skeleton Sprites_23: -124033272
+      Skeleton Sprites_158: -1539968398
+      Skeleton Sprites_125: 1113819139
+      Skeleton Sprites_150: 1425138895
+      Skeleton Sprites_33: 1753632608
+      Skeleton Sprites_74: 1478051691
+      Skeleton Sprites_169: 49370682
+      Skeleton Sprites_67: 1820116525
+      Skeleton Sprites_62: -122151334
+      Skeleton Sprites_72: -2025106626
+      Skeleton Sprites_127: -288819033
+      Skeleton Sprites_51: -714920755
+      Skeleton Sprites_42: 228311225
+      Skeleton Sprites_61: -779873902
+      Skeleton Sprites_68: 1541944973
+      Skeleton Sprites_144: 17357562
+      Skeleton Sprites_170: -2032270011
+      Skeleton Sprites_171: 404915802
+      Skeleton Sprites_18: 858649106
+      Skeleton Sprites_14: 480279727
+      Skeleton Sprites_110: 1232095942
+      Skeleton Sprites_56: 803529988
+      Skeleton Sprites_1: -2073043276
+      Skeleton Sprites_102: 1766473131
+      Skeleton Sprites_39: -558205958
+      Skeleton Sprites_69: 35730697
+      Skeleton Sprites_11: -2099992131
+      Skeleton Sprites_155: -2127744724
+      Skeleton Sprites_99: 767662283
+      Skeleton Sprites_121: 286537790
+      Skeleton Sprites_166: -2090053509
+      Skeleton Sprites_30: -577457417
+      Skeleton Sprites_70: 1502688299
+      Skeleton Sprites_122: 1989919863
+      Skeleton Sprites_31: -1247447906
+      Skeleton Sprites_89: -578981928
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

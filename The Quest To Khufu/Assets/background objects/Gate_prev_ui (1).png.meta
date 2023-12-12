@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 4e5feb220fa8f4b4788a8a384d175eeb
+guid: 0c31655d705bfb94d92842db1f8ceb2c
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -105,34 +105,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: go3ran_w_some_objects-removebg-preview_0
+      name: Gate_prev_ui (1)_0
       rect:
         serializedVersion: 2
-        x: 37
-        y: 179
-        width: 92
-        height: 117
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 415f3e1ec976a5240910f2f841b6f057
-      internalID: 1612358172
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: go3ran_w_some_objects-removebg-preview_1
-      rect:
-        serializedVersion: 2
-        x: 191
-        y: 185
+        x: 16
+        y: 431
         width: 114
-        height: 100
+        height: 132
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -140,20 +119,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f3f58830aeba6e64288eff5e5f119da8
-      internalID: 1389188014
+      spriteID: 5b165fdc44e0e7145b6aeeda69497693
+      internalID: -1416121886
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: go3ran_w_some_objects-removebg-preview_2
+      name: Gate_prev_ui (1)_1
       rect:
         serializedVersion: 2
-        x: 379
-        y: 197
-        width: 111
-        height: 91
+        x: 160
+        y: 431
+        width: 114
+        height: 132
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -161,20 +140,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ab2a76a9059ef1242b5389bd8d024d01
-      internalID: -811674960
+      spriteID: b46ec423046096049a21846e0ab1665b
+      internalID: -160918462
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: go3ran_w_some_objects-removebg-preview_3
+      name: Gate_prev_ui (1)_2
       rect:
         serializedVersion: 2
-        x: 47
-        y: 39
-        width: 103
-        height: 105
+        x: 304
+        y: 431
+        width: 115
+        height: 132
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -182,20 +161,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1544c1ed8bc5e5a4384a6208c73eeaa9
-      internalID: 184266502
+      spriteID: a1be9242035132e429a4b2061f0bdd28
+      internalID: 922734777
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: go3ran_w_some_objects-removebg-preview_4
+      name: Gate_prev_ui (1)_3
       rect:
         serializedVersion: 2
-        x: 228
-        y: 36
-        width: 84
-        height: 138
+        x: 16
+        y: 286
+        width: 114
+        height: 132
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -203,20 +182,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 95d4f24c873f6e949a18bd104509df5e
-      internalID: 817069540
+      spriteID: 30f692f1132b90d42a9a9612649a24f3
+      internalID: -278346678
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: go3ran_w_some_objects-removebg-preview_5
+      name: Gate_prev_ui (1)_4
       rect:
         serializedVersion: 2
-        x: 386
-        y: 51
-        width: 100
-        height: 103
+        x: 160
+        y: 286
+        width: 114
+        height: 132
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -224,8 +203,155 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c893de1b9db32ac48a09b5f8a98feb3e
-      internalID: 1504821519
+      spriteID: 401e32bcc15079e4ba7daca942fa06a8
+      internalID: -948615965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_prev_ui (1)_5
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 286
+        width: 115
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ef94d4501be3a45847eedc38e89af4
+      internalID: 922376324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_prev_ui (1)_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 142
+        width: 114
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b187c3adf5fb8c43b57b2d05585b9eb
+      internalID: 2048381931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_prev_ui (1)_7
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 142
+        width: 114
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b306c6c45c1959d42b353e26539b85d1
+      internalID: -378683403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_prev_ui (1)_8
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 142
+        width: 115
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea0545c6310af44180a25cfa54b0fe0
+      internalID: 138133998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_prev_ui (1)_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 114
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab74db40a122998459710ca2a26b645a
+      internalID: 107095443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_prev_ui (1)_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 114
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1197334e280d641937970e1802de18
+      internalID: 1884762858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gate_prev_ui (1)_11
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 0
+        width: 115
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f426de9853d2a499962a6d36738572
+      internalID: 324696987
       vertices: []
       indices: 
       edges: []
@@ -241,12 +367,18 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      go3ran_w_some_objects-removebg-preview_5: 1504821519
-      go3ran_w_some_objects-removebg-preview_2: -811674960
-      go3ran_w_some_objects-removebg-preview_4: 817069540
-      go3ran_w_some_objects-removebg-preview_1: 1389188014
-      go3ran_w_some_objects-removebg-preview_0: 1612358172
-      go3ran_w_some_objects-removebg-preview_3: 184266502
+      Gate_prev_ui (1)_1: -160918462
+      Gate_prev_ui (1)_9: 107095443
+      Gate_prev_ui (1)_0: -1416121886
+      Gate_prev_ui (1)_3: -278346678
+      Gate_prev_ui (1)_4: -948615965
+      Gate_prev_ui (1)_7: -378683403
+      Gate_prev_ui (1)_5: 922376324
+      Gate_prev_ui (1)_11: 324696987
+      Gate_prev_ui (1)_8: 138133998
+      Gate_prev_ui (1)_6: 2048381931
+      Gate_prev_ui (1)_10: 1884762858
+      Gate_prev_ui (1)_2: 922734777
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

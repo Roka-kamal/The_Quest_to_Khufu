@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 4e5feb220fa8f4b4788a8a384d175eeb
+guid: f8d90f1dd80df2c4dbb2dfbdbe5c7788
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -105,13 +105,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: go3ran_w_some_objects-removebg-preview_0
+      name: go3ran w some objects_0
       rect:
         serializedVersion: 2
-        x: 37
-        y: 179
-        width: 92
-        height: 117
+        x: 192
+        y: 186
+        width: 113
+        height: 111
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -119,113 +119,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 415f3e1ec976a5240910f2f841b6f057
-      internalID: 1612358172
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: go3ran_w_some_objects-removebg-preview_1
-      rect:
-        serializedVersion: 2
-        x: 191
-        y: 185
-        width: 114
-        height: 100
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f3f58830aeba6e64288eff5e5f119da8
-      internalID: 1389188014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: go3ran_w_some_objects-removebg-preview_2
-      rect:
-        serializedVersion: 2
-        x: 379
-        y: 197
-        width: 111
-        height: 91
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ab2a76a9059ef1242b5389bd8d024d01
-      internalID: -811674960
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: go3ran_w_some_objects-removebg-preview_3
-      rect:
-        serializedVersion: 2
-        x: 47
-        y: 39
-        width: 103
-        height: 105
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1544c1ed8bc5e5a4384a6208c73eeaa9
-      internalID: 184266502
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: go3ran_w_some_objects-removebg-preview_4
-      rect:
-        serializedVersion: 2
-        x: 228
-        y: 36
-        width: 84
-        height: 138
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 95d4f24c873f6e949a18bd104509df5e
-      internalID: 817069540
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: go3ran_w_some_objects-removebg-preview_5
-      rect:
-        serializedVersion: 2
-        x: 386
-        y: 51
-        width: 100
-        height: 103
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c893de1b9db32ac48a09b5f8a98feb3e
-      internalID: 1504821519
+      spriteID: 9c0f303a290d1d645a50cbc8e33bbb63
+      internalID: 1314046328
       vertices: []
       indices: 
       edges: []
@@ -241,12 +136,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      go3ran_w_some_objects-removebg-preview_5: 1504821519
-      go3ran_w_some_objects-removebg-preview_2: -811674960
-      go3ran_w_some_objects-removebg-preview_4: 817069540
-      go3ran_w_some_objects-removebg-preview_1: 1389188014
-      go3ran_w_some_objects-removebg-preview_0: 1612358172
-      go3ran_w_some_objects-removebg-preview_3: 184266502
+      go3ran w some objects_0: -2024496308
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
