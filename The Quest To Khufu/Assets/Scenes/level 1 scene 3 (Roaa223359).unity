@@ -15325,6 +15325,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: brick wall
       objectReference: {fileID: 0}
+    - target: {fileID: 451133631801770944, guid: 03066a082fe366243822be9249ea264a, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 451133631801770950, guid: 03066a082fe366243822be9249ea264a, type: 3}
       propertyPath: m_RootOrder
       value: 4
