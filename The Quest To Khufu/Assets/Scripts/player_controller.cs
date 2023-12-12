@@ -70,7 +70,7 @@ public class player_controller : MonoBehaviour
     void Jump()
     {
         GetComponent<Rigidbody2D>().velocity=new Vector2(GetComponent<Rigidbody2D>().velocity.x, jumpHeight);
-        Audio_Manager.instance.Randomizesfx(jump1,jump2);
+        //Audio_Manager.instance.Randomizesfx(jump1,jump2);
     }
      void flip()
      {
