@@ -15,8 +15,8 @@ TagManager:
   - Background
   - Ground
   - Objects
+  - NPC
   - Character
-  - 
   - 
   - 
   - 
@@ -53,6 +53,9 @@ TagManager:
     locked: 0
   - name: Objects2
     uniqueID: 161223319
+    locked: 0
+  - name: NPC
+    uniqueID: 4129623103
     locked: 0
   - name: Character
     uniqueID: 2096955977

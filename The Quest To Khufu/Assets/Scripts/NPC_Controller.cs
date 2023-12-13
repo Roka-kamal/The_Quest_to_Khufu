@@ -12,7 +12,7 @@ public class NPC_Controller : MonoBehaviour
     public LayerMask whatIsGround;
     private bool grounded;
     public bool isFacingRight;
-     private Animator anim;
+    private Animator anim;
     public GameObject player; // Assign the main character from the Unity Inspector
     public float followDistance; // The distance the NPC should follow the player
     public float speed; // The speed at which the NPC should follow the player
@@ -64,10 +64,13 @@ public class NPC_Controller : MonoBehaviour
                 GetComponent<Rigidbody2D>().velocity = new Vector2(GetComponent<Rigidbody2D>().velocity.x, -speed);
             }
         }
+
     }
     // Start is called before the first frame update
     void Start()
     {
+        gameObject.layer = LayerMask.NameToLayer("NPC");
+
         grounded = true;
         anim = GetComponent<Animator>();
     }
@@ -75,14 +78,26 @@ public class NPC_Controller : MonoBehaviour
     void Update()
     {
 
-        if (Input.GetKeyDown(Spacebar) && grounded)
+        if (Input.GetKeyDown(Spacebar))
         {
             StartCoroutine(Jump(jumpDelay));
         }
 
         anim.SetBool("Grounded", grounded);
-         anim.SetFloat("Speed", Mathf.Abs(GetComponent<Rigidbody2D>().velocity.x));
+        anim.SetFloat("Speed", Mathf.Abs(GetComponent<Rigidbody2D>().velocity.x));
 
+    }
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.layer == LayerMask.NameToLayer("Ground"))
+        {
+            // Allow interaction with the ground
+        }
+        else if (collision.gameObject.layer == LayerMask.NameToLayer("Player"))
+        {
+            // Ignore collision with the player
+            Physics2D.IgnoreCollision(GetComponent<Collider2D>(), collision.collider);
+        }
     }
     IEnumerator Jump(float delay)
     {

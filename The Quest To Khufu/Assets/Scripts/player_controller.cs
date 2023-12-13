@@ -69,11 +69,13 @@ public class player_controller : MonoBehaviour
         anim.SetBool("Grounded", grounded);
         anim.SetFloat("Speed", Mathf.Abs(GetComponent<Rigidbody2D>().velocity.x));
 
+
         if (Input.GetKeyDown(SlideKey) && grounded && !isSliding)
         {
-            StartSlide();
+            Vector2 direction = new Vector2(isFacingRight ? 1 : -1, 0);
+            float rotationZ = isFacingRight ? 90 : -90;
+            StartSlide(direction, rotationZ);
         }
-
         if (isSliding)
         {
             slideTimer -= Time.deltaTime;
@@ -83,6 +85,16 @@ public class player_controller : MonoBehaviour
             }
         }
 
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+
+        if (collision.gameObject.layer == LayerMask.NameToLayer("NPC"))
+        {
+            // Ignore collision with the player
+            Physics2D.IgnoreCollision(GetComponent<Collider2D>(), collision.collider);
+        }
     }
 
     void Jump()
@@ -96,7 +108,7 @@ public class player_controller : MonoBehaviour
     }
 
 
-    void StartSlide()
+    void StartSlide(Vector2 direction, float rotationZ)
     {
         isSliding = true;
         slideTimer = slideDuration;
@@ -110,8 +122,11 @@ public class player_controller : MonoBehaviour
         // You may also want to adjust other properties like moveSpeed for sliding
         // e.g., decrease moveSpeed while sliding
         moveSpeed /= 2.0f;
+        // Set the z rotation based on the direction vector
+        transform.eulerAngles = new Vector3(0, 0, rotationZ);
+        // Stop the animation
+        anim.enabled = false;
     }
-
     void StopSlide()
     {
         isSliding = false;
@@ -122,6 +137,10 @@ public class player_controller : MonoBehaviour
 
         // Reset moveSpeed or other properties if needed
         moveSpeed *= 2.0f;
+        // Set the z rotation back to 0 after sliding
+        transform.eulerAngles = new Vector3(0, 0, 0);
+        // Start the animation again
+        anim.enabled = true;
     }
 
 }
