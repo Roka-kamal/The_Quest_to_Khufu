@@ -4,18 +4,18 @@ using UnityEngine;
 
 public class BulletBehavior : MonoBehaviour
 {
-    private Transform target;
     public float bulletSpeed = 10f; // Adjust the speed of the bullet
-    public float bulletLifetime = 4f; // Adjust the lifetime of the bullet
+    public float bulletLifetime = 1f; // Adjust the lifetime of the bullet
+    public int bulletDamage = 10; // Adjust the damage caused by the bullet
+
+    void Start()
+    {
+        // Set the initial velocity to move the bullet to the left
+        GetComponent<Rigidbody2D>().velocity = new Vector2(-bulletSpeed, 0f);
+    }
 
     void Update()
     {
-        if (target != null)
-        {
-            // Move towards the target
-            transform.position = Vector2.MoveTowards(transform.position, target.position, bulletSpeed * Time.deltaTime);
-        }
-
         // Reduce the lifetime of the bullet
         bulletLifetime -= Time.deltaTime;
 
@@ -26,9 +26,23 @@ public class BulletBehavior : MonoBehaviour
         }
     }
 
-    public void SetTarget(Transform newTarget)
+    private void OnTriggerEnter2D(Collider2D collision)
     {
-        target = newTarget;
+        // Check if the bullet collides with the player
+        if (collision.CompareTag("Player"))
+        {
+            // Get the PlayerHealth component of the player
+            PlayerHealth playerHealth = collision.GetComponent<PlayerHealth>();
+
+            // Check if the PlayerHealth component is not null
+            if (playerHealth != null)
+            {
+                // Deal damage to the player
+                playerHealth.TakeDamage(bulletDamage);
+
+                // Destroy the bullet
+                Destroy(gameObject);
+            }
+        }
     }
 }
-
