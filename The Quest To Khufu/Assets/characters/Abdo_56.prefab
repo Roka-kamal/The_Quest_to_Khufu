@@ -45,7 +45,6 @@ GameObject:
   - component: {fileID: 6727786403565432813}
   - component: {fileID: 6727786403565432810}
   - component: {fileID: 6727786403565432811}
-  - component: {fileID: 6727786403565432804}
   m_Layer: 0
   m_Name: Abdo_56
   m_TagString: Abdo_56
@@ -108,7 +107,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 2096955977
-  m_SortingLayer: 5
+  m_SortingLayer: 6
   m_SortingOrder: 0
   m_Sprite: {fileID: 1582850507, guid: 633bd2e8e7813f741b607d9416c95307, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -215,22 +214,3 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.28, y: 0.43598205}
   m_EdgeRadius: 0
---- !u!114 &6727786403565432804
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6727786403565432812}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fa4b9d37addf5394dad12eff9ce4ab00, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  health: 100
-  lives: 3
-  flickerDura1on: 0.1
-  isImmune: 0
-  immunityDura1on: 1.5
-  coinsCollected: 0
-  scoreUI: {fileID: 0}
