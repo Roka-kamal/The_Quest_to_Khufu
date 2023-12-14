@@ -1,5 +1,4 @@
 using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class NPC_Controller : MonoBehaviour
@@ -13,9 +12,13 @@ public class NPC_Controller : MonoBehaviour
     private bool grounded;
     public bool isFacingRight;
     private Animator anim;
-    public GameObject player; // Assign the main character from the Unity Inspector
-    public float followDistance; // The distance the NPC should follow the player
-    public float speed; // The speed at which the NPC should follow the player
+    public GameObject player;
+    public float followDistance;
+    public float speed;
+
+    // Teleportation variables
+    public float teleportDistance;
+    public float teleportDelay;
 
     private void FixedUpdate()
     {
@@ -64,20 +67,19 @@ public class NPC_Controller : MonoBehaviour
                 GetComponent<Rigidbody2D>().velocity = new Vector2(GetComponent<Rigidbody2D>().velocity.x, -speed);
             }
         }
-
     }
+
     // Start is called before the first frame update
     void Start()
     {
         gameObject.layer = LayerMask.NameToLayer("NPC");
-
         grounded = true;
         anim = GetComponent<Animator>();
+        StartCoroutine(TeleportCoroutine());
     }
 
     void Update()
     {
-
         if (Input.GetKeyDown(Spacebar))
         {
             StartCoroutine(Jump(jumpDelay));
@@ -85,28 +87,48 @@ public class NPC_Controller : MonoBehaviour
 
         anim.SetBool("Grounded", grounded);
         anim.SetFloat("Speed", Mathf.Abs(GetComponent<Rigidbody2D>().velocity.x));
-
     }
+
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.gameObject.layer == LayerMask.NameToLayer("Ground"))
         {
             // Allow interaction with the ground
         }
-        else if (collision.gameObject.layer == LayerMask.NameToLayer("Player"))
+        else
         {
             // Ignore collision with the player
             Physics2D.IgnoreCollision(GetComponent<Collider2D>(), collision.collider);
         }
     }
+
     IEnumerator Jump(float delay)
     {
         yield return new WaitForSeconds(delay);
         GetComponent<Rigidbody2D>().velocity = new Vector2(GetComponent<Rigidbody2D>().velocity.x, jumpHeight);
     }
+
     void flip()
     {
         transform.localScale = new Vector3(-(transform.localScale.x), transform.localScale.y, transform.localScale.z);
     }
 
+    private IEnumerator TeleportCoroutine()
+    {
+        while (true)
+        {
+            // Check the distance between NPC and player
+            float distance = Vector2.Distance(transform.position, player.transform.position);
+
+            // If the NPC is not within the specified distance, initiate teleportation
+            if (distance > teleportDistance)
+            {
+                // Teleport the NPC to the specified distance from the player
+                Vector2 teleportPosition = player.transform.position + (transform.position - player.transform.position).normalized * teleportDistance;
+                transform.position = teleportPosition;
+            }
+
+            yield return new WaitForSeconds(teleportDelay);
+        }
+    }
 }
