@@ -31,6 +31,8 @@ public class BulletBehavior : MonoBehaviour
         // Check if the bullet collides with the player
         if (collision.CompareTag("Player"))
         {
+            Destroy(gameObject);
+
             // Get the PlayerHealth component of the player
             PlayerHealth playerHealth = collision.GetComponent<PlayerHealth>();
 
