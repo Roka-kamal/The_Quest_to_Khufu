@@ -5,8 +5,15 @@ using UnityEngine;
 
 public class Enemy : MonoBehaviour
 {
-    public int damage = 10; // Adjust the damage amount as needed
+    public bool isFacingRight = false;
+    public float maxSpeed = 3f;
+    public int damage = 3;
 
+    public void Flip()
+    {
+        isFacingRight = !isFacingRight;
+        transform.localScale = new Vector3(-(transform.localScale.x), transform.localScale.y, transform.localScale.z);
+    }
     void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.gameObject.CompareTag("Player"))
