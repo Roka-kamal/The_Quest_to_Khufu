@@ -87,15 +87,15 @@ public class player_controller : MonoBehaviour
 
     }
 
-    private void OnCollisionEnter2D(Collision2D collision)
-    {
+    //private void OnCollisionEnter2D(Collision2D collision)
+    //{
 
-        if (collision.gameObject.layer == LayerMask.NameToLayer("NPC"))
-        {
-            // Ignore collision with the player
-            Physics2D.IgnoreCollision(GetComponent<Collider2D>(), collision.collider);
-        }
-    }
+    //    if (collision.gameObject.layer == LayerMask.NameToLayer("NPC"))
+    //    {
+    //        // Ignore collision with the player
+    //        Physics2D.IgnoreCollision(GetComponent<Collider2D>(), collision.collider);
+    //    }
+    //}
 
     void Jump()
     {

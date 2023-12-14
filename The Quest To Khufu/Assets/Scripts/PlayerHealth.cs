@@ -56,5 +56,6 @@ public class PlayerHealth : MonoBehaviour
         // For now, let's just deactivate the player GameObject
         gameObject.SetActive(false);
         GameManager.instance.RestartGame();
+        
     }
 }
