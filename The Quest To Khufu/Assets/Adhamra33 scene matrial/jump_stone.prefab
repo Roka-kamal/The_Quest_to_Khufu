@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5594649583221097233}
   - component: {fileID: 5594649583221097234}
-  - component: {fileID: 1080079557900318779}
+  - component: {fileID: 649340849168832826}
   m_Layer: 0
   m_Name: jump_stone
   m_TagString: Untagged
@@ -76,7 +76,7 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: d8c0fd13830c7744fa23d554b2680812, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 0
+  m_FlipX: 1
   m_FlipY: 0
   m_DrawMode: 0
   m_Size: {x: 1.24, y: 0.73}
@@ -85,8 +85,8 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!61 &1080079557900318779
-BoxCollider2D:
+--- !u!68 &649340849168832826
+EdgeCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -99,15 +99,13 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1.24, y: 0.73}
-    newSize: {x: 1.24, y: 0.73}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  serializedVersion: 2
-  m_Size: {x: 1.24, y: 0.73}
   m_EdgeRadius: 0
+  m_Points:
+  - {x: -0.62, y: 0}
+  - {x: -0.4673048, y: 0.1777733}
+  - {x: -0.05135875, y: 0.113323666}
+  - {x: 0.62, y: 0}
+  m_AdjacentStartPoint: {x: 0, y: 0}
+  m_AdjacentEndPoint: {x: 0, y: 0}
+  m_UseAdjacentStartPoint: 0
+  m_UseAdjacentEndPoint: 0

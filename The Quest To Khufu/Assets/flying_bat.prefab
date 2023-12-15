@@ -13,10 +13,9 @@ GameObject:
   - component: {fileID: 3786779979477475445}
   - component: {fileID: 3786779979477475446}
   - component: {fileID: 3786779979477475447}
-  - component: {fileID: 3786779979477475442}
   m_Layer: 10
   m_Name: flying_bat
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30,7 +29,7 @@ Transform:
   m_GameObject: {fileID: 3786779979477475448}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -28.2, y: 15.9, z: -0.19541474}
-  m_LocalScale: {x: 8.039842, y: 6.4679337, z: 1}
+  m_LocalScale: {x: 6.686444, y: 6.664517, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -118,12 +117,12 @@ CircleCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0.0636575}
+  m_Offset: {x: 0, y: 0}
   serializedVersion: 2
-  m_Radius: 0.1966019
+  m_Radius: 0.26
 --- !u!114 &3786779979477475447
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -137,24 +136,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isFacingRight: 1
-  maxSpeed: 3
-  damage: 3
-  HorizontalSpeed: 3
-  VerticalSpeed: 3
-  Amplitude: 2
-  ChangeDirectionInterval: 5
---- !u!114 &3786779979477475442
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3786779979477475448}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 420ad4b0cc095d6488b7b5745a4c11e1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  isFacingRight: 0
-  maxSpeed: 3
-  damage: 3
+  maxSpeed: 4
+  damage: 5
+  HorizontalSpeed: 4
+  VerticalSpeed: 4
+  Amplitude: 3
+  ChangeDirectionInterval: 4

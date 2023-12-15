@@ -134,6 +134,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cat_5
       objectReference: {fileID: 0}
+    - target: {fileID: 126858245696403092, guid: b9fb96a3c5a2f6847acc4b1d2db85d53, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 126858245696403093, guid: b9fb96a3c5a2f6847acc4b1d2db85d53, type: 3}
       propertyPath: m_RootOrder
       value: 4

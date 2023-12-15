@@ -20,8 +20,8 @@ public class FlyingEnemy : Enemy
     void FixedUpdate()
     {
         // Move the enemy in a sine wave pattern
-        tempPosition.x += (isMovingRight ? 1 : -1) * HorizontalSpeed * Time.deltaTime;
-        tempPosition.y = Mathf.Sin(Time.realtimeSinceStartup * VerticalSpeed) * Amplitude;
+        tempPosition.x = transform.position.x + (isMovingRight ? 1 : -1) * HorizontalSpeed * Time.deltaTime;
+        tempPosition.y = Mathf.Sin(Time.time * VerticalSpeed) * Amplitude;
 
         // Move the enemy
         transform.position = tempPosition;
@@ -40,4 +40,6 @@ public class FlyingEnemy : Enemy
             timeSinceLastDirectionChange = 0f;
         }
     }
+
+
 }
