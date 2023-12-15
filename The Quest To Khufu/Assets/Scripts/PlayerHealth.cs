@@ -8,6 +8,7 @@ public class PlayerHealth : MonoBehaviour
     private int currentHealth;
     public int coinsCollected = 0;
     public int keysCollected;
+    public int LettersCollected;
 
     public Slider healthSlider; // Reference to the UI Slider
 
@@ -69,5 +70,10 @@ public class PlayerHealth : MonoBehaviour
     public void CollectKeys(int key_value)
     {
         this.keysCollected += key_value;
+    }
+
+    public void CollectLetter(int letter_value)
+    {
+        this.LettersCollected += letter_value;
     }
 }
