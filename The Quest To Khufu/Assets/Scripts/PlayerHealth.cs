@@ -8,6 +8,8 @@ public class PlayerHealth : MonoBehaviour
     private int currentHealth;
 
     public Slider healthSlider; // Reference to the UI Slider
+    public int coinsCollected = 0;
+
 
     void Start()
     {
@@ -37,7 +39,8 @@ public class PlayerHealth : MonoBehaviour
         {
             Die();
         }
-        else {
+        else
+        {
 
             // Add any additional logic for player taking damage, like checking for death
             UnityEngine.Debug.Log("Player took " + damage + " damage. Current Health: " + currentHealth);
@@ -54,7 +57,7 @@ public class PlayerHealth : MonoBehaviour
     void Die()
     {
         // Check if the GameObject has the tag "Enemy"
-        if (gameObject.CompareTag("enime")) 
+        if (gameObject.CompareTag("enime"))
         {
             // Load the Victory scene
             GameManager.instance.gotovictoryscene();
@@ -65,7 +68,12 @@ public class PlayerHealth : MonoBehaviour
             // For other cases, load the Game Over scene
             GameManager.instance.gotogameover();
         }
-    } 
+    }
+
+    public void CollectCoin(int coinValue)
+    {
+        this.coinsCollected += coinValue;
+    }
 }
 //    void Die()
 //    {
