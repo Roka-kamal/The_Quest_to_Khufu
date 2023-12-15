@@ -2,9 +2,10 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class CoinPickup : MonoBehaviour
+public class Key_Collect : MonoBehaviour
 {
-    public int coinValue;
+    public int key_value;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -16,13 +17,13 @@ public class CoinPickup : MonoBehaviour
     {
         
     }
-    void OnTriggerEnter2D(Collider2D other)
-    {
-        if(other.tag == "Player" )
-        {
-            FindObjectOfType<PlayerStats>().coinsCollected+=coinValue;
-            Destroy(this.gameObject);
 
+    void OnTriggerEnter2D (Collider2D other)
+    {
+        if (other.tag == "Player")
+        {
+          //  FindObjectOfType<PlayerHealth>().totalkey += key_value;
+            Destroy(this.gameObject);
         }
     }
 }

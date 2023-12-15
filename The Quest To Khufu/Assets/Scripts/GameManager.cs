@@ -6,17 +6,7 @@ using UnityEngine.SceneManagement;
 public class GameManager : MonoBehaviour
 {
     public static GameManager instance; // Singleton pattern
-   
-    
-    public void gotogameover()
-    {
-        SceneManager.LoadScene(2);
-    }
 
-    public void gotovictoryscene()
-    {
-        SceneManager.LoadScene(3);
-    }
     void Awake()
     {
         // Ensure only one instance of GameManager exists

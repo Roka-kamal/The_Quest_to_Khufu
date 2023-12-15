@@ -6,10 +6,10 @@ public class PlayerHealth : MonoBehaviour
 {
     public int maxHealth = 100;
     private int currentHealth;
+    public int coinsCollected = 0;
+    public int keysCollected;
 
     public Slider healthSlider; // Reference to the UI Slider
-    public int coinsCollected = 0;
-
 
     void Start()
     {
@@ -39,12 +39,11 @@ public class PlayerHealth : MonoBehaviour
         {
             Die();
         }
-        else
-        {
+        else { 
 
-            // Add any additional logic for player taking damage, like checking for death
-            UnityEngine.Debug.Log("Player took " + damage + " damage. Current Health: " + currentHealth);
-        }
+        // Add any additional logic for player taking damage, like checking for death
+        UnityEngine.Debug.Log("Player took " + damage + " damage. Current Health: " + currentHealth);
+    }
     }
 
     void UpdateHealthBar()
@@ -52,35 +51,23 @@ public class PlayerHealth : MonoBehaviour
         // Update the value of the health slider to reflect the player's current health
         healthSlider.value = currentHealth;
     }
-
-
     void Die()
     {
-        // Check if the GameObject has the tag "Enemy"
-        if (gameObject.CompareTag("enime"))
-        {
-            // Load the Victory scene
-            GameManager.instance.gotovictoryscene();
-
-        }
-        else if (currentHealth <= 0)
-        {
-            // For other cases, load the Game Over scene
-            GameManager.instance.gotogameover();
-        }
+        // Add logic for player death, such as playing a death animation, showing a game over screen, etc.
+        UnityEngine.Debug.Log("Player has died!");
+        // For now, let's just deactivate the player GameObject
+        gameObject.SetActive(false);
+        GameManager.instance.RestartGame();
+        
     }
 
     public void CollectCoin(int coinValue)
     {
         this.coinsCollected += coinValue;
     }
-}
-//    void Die()
-//    {
-//        // Add logic for player death, such as playing a death animation, showing a game over screen, etc.
-//        UnityEngine.Debug.Log("Player has died!");
-//        gameObject.SetActive(false);
-//        GameManager.instance.gotogameover();
 
-//    }
-//}
+    public void CollectKeys(int key_value)
+    {
+        this.keysCollected += key_value;
+    }
+}

@@ -11,9 +11,9 @@ public class PlayerStats : MonoBehaviour
     private float flickerTime = 0f;
     private SpriteRenderer spriteRenderer;
     public bool isImmune = false;
-    public float immunityDura1on = 1.5f;
+    public float immunityDura1on = 1.5f; 
     private float immunityTime = 0f;
-    public int coinsCollected = 0;
+    public int coinsCollected=0;
 
     public TextMeshProUGUI scoreUI;
 
@@ -34,9 +34,9 @@ public class PlayerStats : MonoBehaviour
                 this.spriteRenderer.enabled = true;
             }
         }
-        scoreUI.text = "" + coinsCollected;
+        scoreUI.text = ""+coinsCollected;
     }
-
+    
 
     //functions
     public void TakeDamage(int damage)
