@@ -63,7 +63,7 @@ public class PlayerHealth : MonoBehaviour
             GameManager.instance.gotovictoryscene();
 
         }
-        else /*(gameObject.CompareTag("Player"))*/
+        else if (currentHealth <= 0)
         {
             // For other cases, load the Game Over scene
             GameManager.instance.gotogameover();
