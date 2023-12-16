@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 5688375330306968693}
   - component: {fileID: 5688375330306968692}
   m_Layer: 8
-  m_Name: egyptian_coins-removebg-preview_0
+  m_Name: coin prefab
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
