@@ -13,7 +13,7 @@ public class PlayerHealth : MonoBehaviour
     private SpriteRenderer spriteRenderer;
     public int coinsCollected;
     public int keysCollected;
-    public int LettersCollected;
+    public int lettersCollected;
 
     public Slider healthSlider; // Reference to the UI Slider
     public TextMeshProUGUI coins;
@@ -130,6 +130,6 @@ public class PlayerHealth : MonoBehaviour
 
     public void CollectLetter(int letter_value)
     {
-        this.LettersCollected += letter_value;
+        this.lettersCollected += letter_value;
     }
 }

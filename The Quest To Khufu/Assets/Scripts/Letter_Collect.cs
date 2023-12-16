@@ -4,27 +4,31 @@ using UnityEngine;
 
 public class Letter_Collect : MonoBehaviour
 {
+    public int lettervalue = 10;
+    public float floatSpeed = 1.0f; // Adjust the speed of the floating motion
+    public float floatMagnitude = 0.5f; // Adjust the magnitude of the floating motion
 
-    public int letter_value;
+    private Vector3 startPosition;
 
-    // Start is called before the first frame update
     void Start()
     {
-        
+        startPosition = transform.position;
     }
 
-    // Update is called once per frame
     void Update()
     {
-        
+        // Move the coin up and down using a sinusoidal function
+        float newY = startPosition.y + Mathf.Sin(Time.time * floatSpeed) * floatMagnitude;
+        transform.position = new Vector3(transform.position.x, newY, transform.position.z);
     }
 
     void OnTriggerEnter2D(Collider2D other)
     {
         if (other.tag == "Player")
         {
-          //  FindObjectOfType<player_controller>().totalletter += letter_value;
+            FindObjectOfType<PlayerHealth>().lettersCollected += lettervalue;
             Destroy(this.gameObject);
+
         }
     }
 }
