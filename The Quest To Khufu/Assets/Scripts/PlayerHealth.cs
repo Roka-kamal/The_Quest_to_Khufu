@@ -54,12 +54,18 @@ public class PlayerHealth : MonoBehaviour
     }
     void Die()
     {
-        // Add logic for player death, such as playing a death animation, showing a game over screen, etc.
-        UnityEngine.Debug.Log("Player has died!");
-        // For now, let's just deactivate the player GameObject
-        gameObject.SetActive(false);
-        GameManager.instance.RestartGame();
-        
+        // Check if the GameObject has the tag "Enemy"
+        if (gameObject.CompareTag("enime"))
+        {
+            // Load the Victory scene
+            GameManager.instance.gotovictoryscene();
+
+        }
+        else /*(gameObject.CompareTag("Player"))*/
+        {
+            // For other cases, load the Game Over scene
+            GameManager.instance.gotogameover();
+        }
     }
 
     public void CollectCoin(int coinValue)

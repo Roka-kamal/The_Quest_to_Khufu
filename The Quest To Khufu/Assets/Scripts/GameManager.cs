@@ -7,6 +7,35 @@ public class GameManager : MonoBehaviour
 {
     public static GameManager instance; // Singleton pattern
 
+
+    public void gotogameover()
+    {
+        SceneManager.LoadScene(2);
+    }
+    public void gotoadhamra33()
+    {
+        SceneManager.LoadScene(1);
+    }
+    public void gotovictoryscene()
+    {
+        SceneManager.LoadScene(3);
+    }
+    public void gotomazescene()
+    {
+        SceneManager.LoadScene(4);
+    }
+    public void gotoabdoscene()
+    {
+        SceneManager.LoadScene(5);
+    }
+    public void leveloneali()
+    {
+        SceneManager.LoadScene(6);
+    }
+    public void leveltwoali()
+    {
+        SceneManager.LoadScene(7);
+    }
     void Awake()
     {
         // Ensure only one instance of GameManager exists

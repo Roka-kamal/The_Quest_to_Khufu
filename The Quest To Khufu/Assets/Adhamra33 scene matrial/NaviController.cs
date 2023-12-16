@@ -17,19 +17,28 @@ public class NaviController : MonoBehaviour
         SceneManager.LoadScene(1);
     }
 
-    //public void gotogameover()
-    //{
-    //    SceneManager.LoadScene(2);
-    //}
+    public void gotogameover()
+    {
+        SceneManager.LoadScene(2);
+    }
 
     public void gotovictoryscene()
     {
         SceneManager.LoadScene(3);
     }
-    public void gotolevelonescene ()
+    public void gotomazescene ()
     {
         SceneManager.LoadScene(4);
     }
+    public void gotoabdoscene()
+    {
+        SceneManager.LoadScene(5);
+    }
+    public void leveloneali()
+    {
+        SceneManager.LoadScene(6);
+    }
+
     //    public void quit()
     //    {
     //#if UNITY_EDITOR

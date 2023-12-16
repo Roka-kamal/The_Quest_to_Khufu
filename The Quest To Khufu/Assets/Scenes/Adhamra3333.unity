@@ -2728,8 +2728,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   maxHealth: 100
-  healthSlider: {fileID: 1117861138}
   coinsCollected: 0
+  keysCollected: 0
+  LettersCollected: 0
+  healthSlider: {fileID: 1117861138}
 --- !u!114 &1934830825
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3089,11 +3091,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 593635677845270796, guid: 1b2a60087e3ca7f4ca5ea80b25209309, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -19.81
+      value: -21
       objectReference: {fileID: 0}
     - target: {fileID: 593635677845270796, guid: 1b2a60087e3ca7f4ca5ea80b25209309, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -3.94
+      value: -3.1
       objectReference: {fileID: 0}
     - target: {fileID: 593635677845270796, guid: 1b2a60087e3ca7f4ca5ea80b25209309, type: 3}
       propertyPath: m_LocalPosition.z

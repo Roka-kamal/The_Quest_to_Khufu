@@ -1247,7 +1247,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1224816859}
         m_TargetAssemblyTypeName: NaviController, Assembly-CSharp
-        m_MethodName: gotoadhamra33
+        m_MethodName: leveloneali
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
