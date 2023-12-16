@@ -36,6 +36,18 @@ public class GameManager : MonoBehaviour
     {
         SceneManager.LoadScene(7);
     }
+    public void cutscene1()
+    {
+        SceneManager.LoadScene(8);
+    }
+    public void abdocutscene()
+    {
+        SceneManager.LoadScene(9);
+    }
+    public void mazetoabdo()
+    {
+        SceneManager.LoadScene(10);
+    }
     void Awake()
     {
         // Ensure only one instance of GameManager exists

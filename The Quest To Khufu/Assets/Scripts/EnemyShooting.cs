@@ -9,7 +9,7 @@ public class EnemyShooting : MonoBehaviour
     public float timeBetweenShots = 5f; // Time between each group of shots
     public float bulletSpeed = 10f; // Speed of the bullets
 
-    private bool isShooting = false;
+    public bool isShooting = false;
     private Coroutine shootingCoroutine;
 
     void Start()

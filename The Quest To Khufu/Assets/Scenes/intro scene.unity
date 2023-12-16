@@ -361,7 +361,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 22240107}
         m_TargetAssemblyTypeName: NaviController, Assembly-CSharp
-        m_MethodName: gotomazescene
+        m_MethodName: instructions
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -670,7 +670,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Exit '
+  m_text: intsructions
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -993,7 +993,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 22240107}
         m_TargetAssemblyTypeName: NaviController, Assembly-CSharp
-        m_MethodName: leveloneali
+        m_MethodName: introcutscene
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

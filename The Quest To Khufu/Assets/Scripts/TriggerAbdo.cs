@@ -10,7 +10,7 @@ public class TriggerAbdo : MonoBehaviour
     {
         if (other.tag == "Player") // Check if the triggering object is the player
         {
-            Nextscene.gotoadhamra33();
+            Nextscene.abdocutscene();
         }
     }
 }

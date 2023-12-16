@@ -8,7 +8,7 @@ public class TriggerMaze : MonoBehaviour
     {
         if (other.tag == "Player") // Check if the triggering object is the player
         {
-            Nextscene.gotoabdoscene();
+            Nextscene.mazetoabdo();
         }
     }
 }

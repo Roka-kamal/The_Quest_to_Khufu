@@ -10,7 +10,7 @@ public class Triggerlevelinescenetwo : MonoBehaviour
     {
         if (other.tag == "Player") // Check if the triggering object is the player
         {
-            Nextscene.gotomazescene();
+            Nextscene.cutscene1();
         }
     }
 }
