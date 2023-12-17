@@ -121,8 +121,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 21881dbe5e3de354496a2733ad4a4ac0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bulletSpeed: 40
-  bulletLifetime: 2
+  bulletSpeed: 100
+  bulletLifetime: 1
   bulletDamage: 10
 --- !u!61 &3003191367532536163
 BoxCollider2D:
@@ -162,4 +162,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 420ad4b0cc095d6488b7b5745a4c11e1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  isFacingRight: 0
+  maxSpeed: 3
   damage: 10

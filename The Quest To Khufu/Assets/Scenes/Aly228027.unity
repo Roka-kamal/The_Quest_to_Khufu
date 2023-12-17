@@ -3693,6 +3693,10 @@ PrefabInstance:
       value: Abdo_21
       objectReference: {fileID: 0}
     - target: {fileID: 8765378709945594069, guid: a1abc89c2c847a6419a453e0ce576d81, type: 3}
+      propertyPath: moveSpeed
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 8765378709945594069, guid: a1abc89c2c847a6419a453e0ce576d81, type: 3}
       propertyPath: jumpHeight
       value: 9
       objectReference: {fileID: 0}
