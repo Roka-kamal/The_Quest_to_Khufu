@@ -2528,11 +2528,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3902588264504205439, guid: 6f819122d3cdeee429b92acde491314b, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 73
+      value: 69.29996
       objectReference: {fileID: 0}
     - target: {fileID: 3902588264504205439, guid: 6f819122d3cdeee429b92acde491314b, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -163
+      value: -160.20001
       objectReference: {fileID: 0}
     - target: {fileID: 3902588264517608071, guid: 6f819122d3cdeee429b92acde491314b, type: 3}
       propertyPath: m_AnchorMax.x
@@ -2556,11 +2556,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3902588264517608071, guid: 6f819122d3cdeee429b92acde491314b, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 221
+      value: 217.29996
       objectReference: {fileID: 0}
     - target: {fileID: 3902588264517608071, guid: 6f819122d3cdeee429b92acde491314b, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -170
+      value: -167.20001
       objectReference: {fileID: 0}
     - target: {fileID: 3902588264662464332, guid: 6f819122d3cdeee429b92acde491314b, type: 3}
       propertyPath: m_AnchorMax.y
@@ -2584,11 +2584,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3902588264802986303, guid: 6f819122d3cdeee429b92acde491314b, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 145
+      value: 141.3
       objectReference: {fileID: 0}
     - target: {fileID: 3902588264802986303, guid: 6f819122d3cdeee429b92acde491314b, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -114
+      value: -111.2
       objectReference: {fileID: 0}
     - target: {fileID: 3902588265197679445, guid: 6f819122d3cdeee429b92acde491314b, type: 3}
       propertyPath: m_AnchorMax.x
@@ -2616,11 +2616,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3902588265197679445, guid: 6f819122d3cdeee429b92acde491314b, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 74
+      value: 70.29996
       objectReference: {fileID: 0}
     - target: {fileID: 3902588265197679445, guid: 6f819122d3cdeee429b92acde491314b, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -105
+      value: -102.20001
       objectReference: {fileID: 0}
     - target: {fileID: 3902588265621973625, guid: 6f819122d3cdeee429b92acde491314b, type: 3}
       propertyPath: m_AnchorMin.x
@@ -2664,11 +2664,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3902588265762485621, guid: 6f819122d3cdeee429b92acde491314b, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 147
+      value: 143.29996
       objectReference: {fileID: 0}
     - target: {fileID: 3902588265762485621, guid: 6f819122d3cdeee429b92acde491314b, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -47
+      value: -44.200012
       objectReference: {fileID: 0}
     - target: {fileID: 4085271657535269107, guid: 6f819122d3cdeee429b92acde491314b, type: 3}
       propertyPath: m_Name
@@ -4535,8 +4535,6 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 128
   isFacingRight: 1
-  jump1: {fileID: 0}
-  jump2: {fileID: 0}
 --- !u!95 &863670093
 Animator:
   serializedVersion: 4
@@ -8770,7 +8768,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_BackGroundColor: {r: 0.6313726, g: 0.4901961, b: 0.121568635, a: 1}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -8787,7 +8785,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 6
+  orthographic size: 6.7141256
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -8811,7 +8809,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1694562268}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -6.3, y: 2, z: -10}
+  m_LocalPosition: {x: 58.62, y: 12.58, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -8832,10 +8830,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Target: {fileID: 863670097}
   cameraspeed: 5
-  minX: -7.8
-  maxX: 60.2
-  minY: 0.4
-  maxY: 13.3
+  minX: -6.3
+  maxX: 58.62
+  minY: 0.73
+  maxY: 12.58
 --- !u!1001 &1723488665
 PrefabInstance:
   m_ObjectHideFlags: 0
