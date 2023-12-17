@@ -23,9 +23,12 @@ public class cutScene_LevelOne : MonoBehaviour
         if (other.tag == "Player")
         {
             string[] dialogue =
-                {"Roka: Hello Abdo, ready for your adventure?",
-                "Abdo: Hello Roka, yess i'm verry excied",
-                "Roka: Great, let's begin"
+                {
+                "Abdo: WHAT IS THAT??\nRoka: WOWWW",
+                "MAU: Hello friends I'm Mau one of the oldest creatures from Ancient Egypt",
+                "Roka: I've always read about the magic of Ancient Egyptian cats, but I've never seen one.\ncan you help us find khufu's tomb?",
+                "Mau: Your journey is very dangerous and full of evil." ,
+                "Mau: Icould only help you to get your way through the maze but you'll have to continue the quest by yourself"
             };
 
             dmanager.SetSentences(dialogue);

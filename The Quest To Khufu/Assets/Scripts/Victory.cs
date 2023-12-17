@@ -23,9 +23,7 @@ public class Victory : MonoBehaviour
         if (other.tag == "Player")
         {
             string[] dialogue =
-                {"Roka: Hello Abdo, ready for your adventure?",
-                "Abdo: Hello Roka, yess i'm verry excied",
-                "Roka: Great, let's begin"
+                {"CONGRATULATIONS!! \n Thank you for your help :)"
             };
 
             dmanager.SetSentences(dialogue);

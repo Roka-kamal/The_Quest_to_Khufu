@@ -9,37 +9,37 @@ EditorBuildSettings:
     path: Assets/Scenes/intro scene.unity
     guid: f4f1a3487b38b4e4498bb2c4457c0374
   - enabled: 1
-    path: Assets/Scenes/Adhamra3333.unity
+    path: Assets/Scenes/Adham219728.unity
     guid: fd9c9d5a68bdc3147a5c2f43ccdb32c9
   - enabled: 1
     path: Assets/Scenes/GameOver.unity
     guid: 808348b04dd6bd449808d58452205e30
   - enabled: 1
-    path: Assets/Scenes/Victory Scene.unity
+    path: Assets/Scenes/cut scenes/Victory Scene.unity
     guid: 45a4ad1360b4e7246b0ba214bb89bf36
   - enabled: 1
-    path: Assets/Scenes/maze scene 3 (Roaa223359).unity
+    path: Assets/Scenes/Roaa223359.unity
     guid: eb44255cbf80bf34f812d30a8570e20d
   - enabled: 1
-    path: Assets/Scenes/Abdo scene.unity
+    path: Assets/Scenes/Abdelrahman218796.unity
     guid: f7dc2e8648e01a94ca686dc6c73765a6
   - enabled: 1
-    path: Assets/Scenes/Level 1 Scene 1.unity
+    path: Assets/Scenes/Aly1.unity
     guid: d384583b8e996234cabeb29b085b4dd1
   - enabled: 1
-    path: Assets/Scenes/level 1 scene 2.unity
+    path: Assets/Scenes/Aly228027.unity
     guid: d945b44ed84b53e4d8df6583566861d5
   - enabled: 1
-    path: Assets/Scenes/cut scene level one.unity
+    path: Assets/Scenes/cut scenes/Before maze.unity
     guid: 5646d932079ac404cb616d75bec4a5c7
   - enabled: 1
-    path: Assets/Scenes/Abdo cutscene.unity
+    path: Assets/Scenes/cut scenes/Abdo cutscene.unity
     guid: 1659c568c12d3f843a395152aee6c31b
   - enabled: 1
-    path: Assets/Scenes/Mazetoabdo.unity
+    path: Assets/Scenes/cut scenes/Mazetoabdo.unity
     guid: acf5e81ac44315e429163ff31b113693
   - enabled: 1
-    path: Assets/Scenes/IntroCutscene.unity
+    path: Assets/Scenes/cut scenes/Background story.unity
     guid: b5469f2c1f9ed8540936065aedc70835
   - enabled: 1
     path: Assets/Scenes/Instrctions.unity

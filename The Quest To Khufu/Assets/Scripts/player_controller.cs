@@ -21,8 +21,7 @@ public class player_controller : MonoBehaviour
     public bool isFacingRight;
     private Animator anim;
 
-    public AudioClip jump1;
-    public AudioClip jump2;
+
 
     void FixedUpdate()
     {

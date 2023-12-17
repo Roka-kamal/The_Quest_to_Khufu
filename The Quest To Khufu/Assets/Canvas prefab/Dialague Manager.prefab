@@ -45,7 +45,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   textDisplay: {fileID: 0}
-  typingSpeed: 0.1
+  typingSpeed: 0.05
   continueButton: {fileID: 0}
   dialogueBox: {fileID: 0}
   playerRB: {fileID: 0}

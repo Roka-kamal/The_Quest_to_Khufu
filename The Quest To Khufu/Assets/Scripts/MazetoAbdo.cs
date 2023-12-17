@@ -23,9 +23,9 @@ public class MazetoAbdo : MonoBehaviour
         if (other.tag == "Player")
         {
             string[] dialogue =
-                {"Roka: Hello Abdo, ready for your adventure?",
-                "Abdo: Hello Roka, yess i'm verry excied",
-                "Roka: Great, let's begin"
+                {"Skelaton: sir Abdo passed the maze and was able to get through all our snakes and bats!!",
+                "Adhamra33: I told you your stupid pets aren't enough to stop him",
+                "WE CAN'T LET HIM GET TO THE TOMB GO GET HIM !!!"
             };
 
             dmanager.SetSentences(dialogue);
