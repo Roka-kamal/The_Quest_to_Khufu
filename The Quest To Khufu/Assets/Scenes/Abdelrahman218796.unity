@@ -420,6 +420,14 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 7
       objectReference: {fileID: 0}
+    - target: {fileID: 3113330666925379235, guid: 95281b5683bb11242a8dede463dbe4b8, type: 3}
+      propertyPath: m_SortingLayer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3113330666925379235, guid: 95281b5683bb11242a8dede463dbe4b8, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 1593196411
+      objectReference: {fileID: 0}
     - target: {fileID: 3113330666925379260, guid: 95281b5683bb11242a8dede463dbe4b8, type: 3}
       propertyPath: m_RootOrder
       value: 27
@@ -996,7 +1004,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 562594659}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 93.97, y: 2.02, z: 0}
+  m_LocalPosition: {x: 93.92, y: 0.09, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -4774,6 +4782,14 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 7
       objectReference: {fileID: 0}
+    - target: {fileID: 3113330666925379235, guid: 95281b5683bb11242a8dede463dbe4b8, type: 3}
+      propertyPath: m_SortingLayer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3113330666925379235, guid: 95281b5683bb11242a8dede463dbe4b8, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 1593196411
+      objectReference: {fileID: 0}
     - target: {fileID: 3113330666925379260, guid: 95281b5683bb11242a8dede463dbe4b8, type: 3}
       propertyPath: m_RootOrder
       value: 32
@@ -5055,7 +5071,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6727786403565432813, guid: 35010a5bf9af90e4fa162acf6968f7d1, type: 3}
       propertyPath: moveSpeed
-      value: 10
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 6727786403565432813, guid: 35010a5bf9af90e4fa162acf6968f7d1, type: 3}
       propertyPath: jumpHeight
